@@ -6,7 +6,7 @@ Clear and well-documented research experiments are essential, as they allow rese
 
 ## Contents
 
-- `data/` — Directory contains recoreded reproducibility checklist.
+- `data/` — Directory contains recorded reproducibility variables (checklist).
 - `results/` — Output of the reproducibility assessment (e.g., plots).
 - `paper/` — The manuscript and supplementary materials.
 
