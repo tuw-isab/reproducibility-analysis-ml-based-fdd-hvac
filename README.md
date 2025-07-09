@@ -11,3 +11,5 @@ Clear and well-documented research experiments are essential, as they allow rese
 - `paper/` — The manuscript and supplementary materials.
 
 ![Diagram](./results/home_img_spider_web.png)
+![Diagram](./figures/adapted-reprod-spectrum.png)
+![Diagram](./figures/venn-diagram-dimensions.png)
