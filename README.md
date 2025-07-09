@@ -10,3 +10,4 @@ Clear and well-documented research experiments are essential, as they allow rese
 - [`results/`](https://github.com/tuw-isab/reproducibility-analysis-ml-based-fdd-hvac/tree/main/results) — Output of the reproducibility assessment (e.g., plots).
 - `paper/` — The manuscript and supplementary materials.
 
+![Diagram](./results/home_img_spider_web.png)
