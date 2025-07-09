@@ -9,6 +9,7 @@ Clear and well-documented research experiments are essential, as they allow rese
 - [`data/`](https://github.com/tuw-isab/reproducibility-analysis-ml-based-fdd-hvac/tree/main/data) — Directory contains recorded reproducibility variables (checklist).
 - [`results/`](https://github.com/tuw-isab/reproducibility-analysis-ml-based-fdd-hvac/tree/main/results) — Output of the reproducibility assessment (e.g., plots).
 - [`paper/`](https://github.com/tuw-isab/reproducibility-analysis-ml-based-fdd-hvac/tree/main/paper) — The manuscript is available in this directory.
+- [`figures/`](https://github.com/tuw-isab/reproducibility-analysis-ml-based-fdd-hvac/tree/main/figures) — Directory contains figures used in the study.
 
 ![Diagram](./results/home_img_spider_web.png)
 ![Diagram](./figures/adapted-reprod-spectrum.png)
