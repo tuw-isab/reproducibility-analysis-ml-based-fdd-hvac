@@ -1,68 +1,68 @@
 ﻿Paper ID,DOI,Methodology,Publisher,Year,1a. Are all the data sources listed?,1b. What type of data is used?,1c. Dataset statistics present?,1d. Data availability,1e. Benchmark Dataset,1f. Metadata/Description,2a. pre porcessing steps,2b. removed source data,2c. multiple sources: combination clear?,2d. methods for features/descriptors,3a. HP opt - model(s),3b. HP opt - baseline(s),3c. HP opt procedure,3d. searched ranges - model,3e. searched ranges - baselines,3f. best HP - model,3g. best HP - baselines,4a. what splitting type,4e. metrics,4f. stat sig tests,5a. code/workflow repo,5b.  empty repo ,5c. data preprocessing code,5d. feature generation code,5e. evaluation code,5f. hyperparameter tuning code,5g. supplementary info,5h. sw implementation
-1,https://doi.org/10.1109/CCDC.2014.6852414,MB+ML,IEEE,2014,n,Real World,n,No Information,,y,y,,na,y,n,n,n,n,n,n,n,Single-Split,"Charts, Error Est.",n,n,na,na,na,na,na,na,na
-2,https://doi.org/10.1109/ICTAI.2018.00136,ML,IEEE,2018,n,Real World,n,Proprietary,,y,n,,na,y,n,n,n,n,n,n,n,T/V/T,"Precision, Recall",y,n,na,na,na,na,na,na,na
-3,https://doi.org/10.1109/ICVR57957.2023.10169760,MB+ML+KB,IEEE,2023,n,No Information,n,No Information,,n,n,,na,n,n,n,n,n,n,n,n,No Information,"""Operational KPIs (man hour reduction, timeliness rate etc)""",n,n,na,na,na,na,na,na,na
-4,https://doi.org/10.1109/AIKIIE60097.2023.10390401,MB+ML,IEEE,2023,n,Simulation,n,No Information,,n,n,,na,n,n,n,n,n,n,n,n,No Information,"Accuracy, F1 score, FPR, TPR",n,n,na,na,na,na,na,na,na
-5,https://doi.org/10.1109/ICICT55905.2022.00043,MB+ML+KB,IEEE,2022,n,"Real World, Simulation",n,No Information,,y,n,,y,y,n,n,n,n,n,y,n,T/V/T,"Accuracy, Loss",n,n,na,na,na,na,na,na,na
+1,https://doi.org/10.1109/CCDC.2014.6852414,MB+ML,IEEE,2014,n,Real World,n,No Information,,y,y,,na,y,n,n,n,n,n,n,n,Single-Split,Error Est.,n,n,na,na,na,na,na,na,na
+2,https://doi.org/10.1109/ICTAI.2018.00136,ML,IEEE,2018,n,Real World,n,Proprietary,,y,n,,na,y,n,n,n,n,n,n,n,Train/Test/Validation,"Precision, Recall",y,n,na,na,na,na,na,na,na
+3,https://doi.org/10.1109/ICVR57957.2023.10169760,MB+ML+KB,IEEE,2023,n,No Information,n,No Information,,n,n,,na,n,n,n,n,n,n,n,n,No Information,Operational KPIs,n,n,na,na,na,na,na,na,na
+4,https://doi.org/10.1109/AIKIIE60097.2023.10390401,MB+ML,IEEE,2023,n,Simulation,n,No Information,,n,n,,na,n,n,n,n,n,n,n,n,No Information,"TPR, FPR, F1 score, Accuracy",n,n,na,na,na,na,na,na,na
+5,https://doi.org/10.1109/ICICT55905.2022.00043,MB+ML+KB,IEEE,2022,n,"Real World, Simulation",n,No Information,,y,n,,y,y,n,n,n,n,n,y,n,Train/Test/Validation,Accuracy,n,n,na,na,na,na,na,na,na
 6,https://doi.org/10.1109/IECON.2015.7392181,ML,IEEE,2015,n,Real World,n,No Information,,y,y,,na,y,n,n,n,n,n,n,n,No Information,Charts,n,n,na,na,na,na,na,na,na
-7,https://doi.org/10.1109/UIC-ATC.2017.8397584,ML,IEEE,2017,n,Real World,y,No Information,,y,y,,na,y,y,n,y,y,n,y,n,No Information,Cluster related (Silhouette Index ...),n,n,na,na,na,na,na,na,na
+7,https://doi.org/10.1109/UIC-ATC.2017.8397584,ML,IEEE,2017,n,Real World,y,No Information,,y,y,,na,y,y,n,y,y,n,y,n,No Information,Cluster related,n,n,na,na,na,na,na,na,na
 8,https://doi.org/10.1109/ICSensT.2015.7438504,ML,IEEE,2015,n,Real World,n,No Information,,y,n,,na,y,n,n,n,n,n,n,n,Single-Split,"Accuracy, Fault Detection Rate",n,n,na,na,na,na,na,na,na
-9,https://doi.org/10.23919/IPEC-Himeji2022-ECCE53331.2022.9807260,ML,IEEE,2022,n,Experiment,n,No Information,,y,n,,na,y,n,n,n,n,n,n,n,Single-Split,"Accuracy, Confusion Matrix, F1 score, Precision, Recall",n,n,na,na,na,na,na,na,na
-10,https://doi.org/10.1109/CoDIT55151.2022.9803907,ML,IEEE,2022,n,Simulation,y,No Information,,y,y,,na,y,y,n,y,y,n,y,n,Cross Validation,"Accuracy, Confusion Matrix, F1 score, Precision, Recall",n,n,na,na,na,na,na,na,na
-11,https://doi.org/10.1109/ISAECT.2018.8618755,MB+ML,IEEE,2018,n,Real World,n,No Information,,y,n,,na,n,n,n,n,n,n,n,n,Single-Split,R2 Score (coeff. of determination),n,n,na,na,na,na,na,na,na
-12,https://doi.org/10.1109/ICASET.2019.8714453,ML,IEEE,2019,n,Simulation,n,No Information,,n,n,,na,n,y,n,y,y,n,y,n,Single-Split,"Accuracy, Confusion Matrix, F1 score, Precision, Recall",n,n,na,na,na,na,na,na,na
-13,https://doi.org/10.1109/ETFA46521.2020.9212088,ML,IEEE,2020,y,Real World,n,Public,,y,n,,na,y,y,n,y,n,n,y,n,Cross Validation,"Accuracy, F1 score, Precision, Recall",n,n,na,na,na,na,na,na,na
-14,https://doi.org/10.1109/ComplexSys.2015.7385977,MB+ML,IEEE,2015,n,Simulation,n,Public,,y,n,,na,n,n,n,n,n,n,n,n,No Information,"""Operational KPIs (man hour reduction, ""Qualitative metrics (estimations, Charts, etc)"", false alram rates, timeliness rate etc)""",n,n,na,na,na,na,na,na,na
-15,https://doi.org/10.1109/ICIEA51954.2021.9516436,ML,IEEE,2021,y,Simulation,n,Purchasable,,y,y,,na,y,n,n,n,n,n,y,n,T/V/T,Accuracy,n,n,na,na,na,na,na,na,na
+9,https://doi.org/10.23919/IPEC-Himeji2022-ECCE53331.2022.9807260,ML,IEEE,2022,n,Experiment,n,No Information,,y,n,,na,y,n,n,n,n,n,n,n,Single-Split,"Accuracy, F1 score, Precision, Recall",n,n,na,na,na,na,na,na,na
+10,https://doi.org/10.1109/CoDIT55151.2022.9803907,ML,IEEE,2022,n,Simulation,y,No Information,,y,y,,na,y,y,n,y,y,n,y,n,Cross Validation,"Accuracy, F1 score, Recall, Precision",n,n,na,na,na,na,na,na,na
+11,https://doi.org/10.1109/ISAECT.2018.8618755,MB+ML,IEEE,2018,n,Real World,n,No Information,,y,n,,na,n,n,n,n,n,n,n,n,Single-Split,R2 Score,n,n,na,na,na,na,na,na,na
+12,https://doi.org/10.1109/ICASET.2019.8714453,ML,IEEE,2019,n,Simulation,n,No Information,,n,n,,na,n,y,n,y,y,n,y,n,Single-Split,"F1 score, Accuracy, Recall, Precision",n,n,na,na,na,na,na,na,na
+13,https://doi.org/10.1109/ETFA46521.2020.9212088,ML,IEEE,2020,y,Real World,n,Public,,y,n,,na,y,y,n,y,n,n,y,n,Cross Validation,"F1 score, Accuracy, Recall, Precision",n,n,na,na,na,na,na,na,na
+14,https://doi.org/10.1109/ComplexSys.2015.7385977,MB+ML,IEEE,2015,n,Simulation,n,Public,,y,n,,na,n,n,n,n,n,n,n,n,No Information,"Qualitative metrics, Charts",n,n,na,na,na,na,na,na,na
+15,https://doi.org/10.1109/ICIEA51954.2021.9516436,ML,IEEE,2021,y,Simulation,n,Purchasable,,y,y,,na,y,n,n,n,n,n,y,n,Train/Test/Validation,Accuracy,n,n,na,na,na,na,na,na,na
 16,https://doi.org/10.1109/PowerAfrica52236.2021.9543158,ML,IEEE,2021,n,Simulation,n,No Information,,y,n,,na,n,n,n,n,n,n,n,n,Single-Split,"Loss, Precision",n,n,na,na,na,na,na,na,na
-17,https://doi.org/10.1109/BigData.2016.7840749,ML,IEEE,2016,n,Real World,y,No Information,,y,n,,na,y,n,n,n,n,n,n,n,No Information,"""Qualitative metrics (estimations, etc)"", false alram rates",n,n,na,na,na,na,na,na,na
-18,https://doi.org/10.1109/CCTA.2019.8920554,ML,IEEE,2019,n,Simulation,n,No Information,,y,n,,na,n,y,n,y,y,n,y,n,Single-Split,"Charts, FPR, TPR",n,n,na,na,na,na,na,na,na
-19,https://doi.org/10.1109/BigData.2017.8258421,ML,IEEE,2017,n,Real World,y,No Information,,y,y,,na,y,n,n,n,n,n,n,n,No Information,"""Qualitative metrics (estimations, Charts, etc)"", false alram rates",n,n,na,na,na,na,na,na,na
-20,https://doi.org/10.1109/CASE56687.2023.10260667,ML,IEEE,2023,n,Simulation,y,No Information,,y,n,,na,y,n,n,n,n,n,y,n,Single-Split,"Accuracy, Confusion Matrix, F1 score, Precision",n,n,na,na,na,na,na,na,na
-21,https://doi.org/10.1109/FIT60620.2023.00036,ML,IEEE,2023,y,Real World,y,Public,,y,y,,na,y,n,n,n,n,n,n,n,Single-Split,"Accuracy, F1 score, Precision, Recall",n,n,na,na,na,na,na,na,na
-22,https://doi.org/10.1109/KBEI.2017.8324986,ML+KB,IEEE,2017,n,Simulation,n,No Information,,y,n,,na,n,n,n,n,n,n,n,n,No Information,no metrics,n,n,na,na,na,na,na,na,na
-23,https://doi.org/10.1109/ICCCNT61001.2024.10724490,ML,IEEE,2024,n,"Real World, Simulation",n,Public,,y,y,,na,n,n,n,n,n,n,n,n,Single-Split,"Accuracy, F1 score, Precision, Recall",n,n,na,na,na,na,na,na,na
-24,https://doi.org/10.1109/ICSSAS57918.2023.10331800,ML,IEEE,2023,n,No Information,n,No Information,,n,y,,na,y,n,n,n,n,n,n,n,No Information,"Accuracy, Error Est., F1 score, Precision, Recall",n,n,na,na,na,na,na,na,na
-25,https://doi.org/10.23919/ACC45564.2020.9147772,ML,IEEE,2020,y,Simulation,n,Public,,y,n,,y,y,y,n,y,n,n,y,n,Single-Split,"Error Est., F1 score, Precision, Recall",n,y,n,y,y,y,y,y,y
+17,https://doi.org/10.1109/BigData.2016.7840749,ML,IEEE,2016,n,Real World,y,No Information,,y,n,,na,y,n,n,n,n,n,n,n,No Information,Qualitative metrics,n,n,na,na,na,na,na,na,na
+18,https://doi.org/10.1109/CCTA.2019.8920554,ML,IEEE,2019,n,Simulation,n,No Information,,y,n,,na,n,y,n,y,y,n,y,n,Single-Split,"FPR, TPR, Charts",n,n,na,na,na,na,na,na,na
+19,https://doi.org/10.1109/BigData.2017.8258421,ML,IEEE,2017,n,Real World,y,No Information,,y,y,,na,y,n,n,n,n,n,n,n,No Information,"Qualitative metrics, Charts",n,n,na,na,na,na,na,na,na
+20,https://doi.org/10.1109/CASE56687.2023.10260667,ML,IEEE,2023,n,Simulation,y,No Information,,y,n,,na,y,n,n,n,n,n,y,n,Single-Split,"Precision, Accuracy, F1 score",n,n,na,na,na,na,na,na,na
+21,https://doi.org/10.1109/FIT60620.2023.00036,ML,IEEE,2023,y,Real World,y,Public,,y,y,,na,y,n,n,n,n,n,n,n,Single-Split,"F1 score, Recall, Precision, Accuracy",n,n,na,na,na,na,na,na,na
+22,https://doi.org/10.1109/KBEI.2017.8324986,ML+KB,IEEE,2017,n,Simulation,n,No Information,,y,n,,na,n,n,n,n,n,n,n,n,No Information,,n,n,na,na,na,na,na,na,na
+23,https://doi.org/10.1109/ICCCNT61001.2024.10724490,ML,IEEE,2024,n,"Real World, Simulation",n,Public,,y,y,,na,n,n,n,n,n,n,n,n,Single-Split,"F1 score, Accuracy, Recall, Precision",n,n,na,na,na,na,na,na,na
+24,https://doi.org/10.1109/ICSSAS57918.2023.10331800,ML,IEEE,2023,n,No Information,n,No Information,,n,y,,na,y,n,n,n,n,n,n,n,No Information,"F1 score, Accuracy, Recall, Precision",n,n,na,na,na,na,na,na,na
+25,https://doi.org/10.23919/ACC45564.2020.9147772,ML,IEEE,2020,y,Simulation,n,Public,,y,n,,y,y,y,n,y,n,n,y,n,Single-Split,"Recall, Precision, Error Est., F1 score",n,y,n,y,y,y,y,y,y
 26,https://doi.org/10.1109/ICoICI62503.2024.10696849,ML,IEEE,2024,n,Real World,n,No Information,,n,n,,na,n,n,n,n,n,n,n,n,No Information,"Accuracy, F1 score, Precision, Recall",n,n,na,na,na,na,na,na,na
-27,https://doi.org/10.1109/COASE.2016.7743463,ML,IEEE,2016,n,Real World,n,No Information,,y,y,,y,n,n,n,n,n,n,n,n,No Information,no metrics,n,n,na,na,na,na,na,na,na
-28,https://doi.org/10.1109/ICITBS.2016.41,ML,IEEE,2016,n,Real World,y,No Information,,y,n,,na,n,n,n,n,n,n,n,n,No Information,"""Qualitative metrics (estimations, etc)"", false alram rates, no metrics",n,n,na,na,na,na,na,na,na
+27,https://doi.org/10.1109/COASE.2016.7743463,ML,IEEE,2016,n,Real World,n,No Information,,y,y,,y,n,n,n,n,n,n,n,n,No Information,,n,n,na,na,na,na,na,na,na
+28,https://doi.org/10.1109/ICITBS.2016.41,ML,IEEE,2016,n,Real World,y,No Information,,y,n,,na,n,n,n,n,n,n,n,n,No Information,,n,n,na,na,na,na,na,na,na
 29,https://doi.org/10.1109/CoASE.2014.6899467,ML,IEEE,2014,n,Real World,n,No Information,,y,n,,na,y,n,n,n,n,n,n,n,Single-Split,Fault Detection Rate,n,n,na,na,na,na,na,na,na
-30,https://doi.org/10.1109/IINTEC48298.2019.9112110,ML,IEEE,2019,n,Simulation,y,No Information,,y,n,,na,y,n,n,n,n,n,n,n,Single-Split,"Accuracy, Confusion Matrix, F1 score, Precision, Recall",n,n,na,na,na,na,na,na,na
+30,https://doi.org/10.1109/IINTEC48298.2019.9112110,ML,IEEE,2019,n,Simulation,y,No Information,,y,n,,na,y,n,n,n,n,n,n,n,Single-Split,"Accuracy, F1 score, Recall, Precision",n,n,na,na,na,na,na,na,na
 31,https://doi.org/10.1109/ISIE.2014.6865041,ML,IEEE,2014,n,Real World,n,No Information,,y,y,,na,y,n,n,n,n,n,n,n,No Information,Charts,n,n,na,na,na,na,na,na,na
 32,https://doi.org/10.1109/ICPES47639.2019.9105507,MB+ML,IEEE,2019,n,Simulation,n,No Information,,y,n,,na,y,n,n,n,n,n,n,n,Single-Split,"FPR, Fault Detection Rate",n,n,na,na,na,na,na,na,na
-33,https://doi.org/10.1145/3486611.3491122,ML,ACM,2021,n,Simulation,n,No Information,,y,n,,na,y,y,y,n,n,n,y,y,T/V/T,"FPR, TPR",n,n,na,na,na,na,na,na,na
-34,https://dl.acm.org/doi/10.5555/3615924.3623632,ML,ACM,2023,n,"Real World, Simulation",n,Proprietary,,y,n,,na,n,y,y,n,n,n,y,y,No Information,"AUC, F1 score",n,n,na,na,na,na,na,na,na
-35,https://doi.org/10.1145/3486611.3486644,MB+ML,ACM,2021,n,Simulation,n,No Information,,y,n,,na,y,y,n,y,n,n,y,n,No Information,"""Operational KPIs (man hour reduction, Error Est., timeliness rate etc)""",n,n,na,na,na,na,na,na,na
-36,https://doi.org/10.1145/2674061.2674067,ML+KB,ACM,2014,n,Real World,n,No Information,,y,n,,na,n,n,n,n,n,n,n,n,No Information,"""Qualitative metrics (estimations, etc)"", false alram rates",n,n,na,na,na,na,na,na,na
-37,https://doi.org/10.1145/3587716.3587749,ML,ACM,2023,n,Real World,y,No Information,,y,n,,na,n,y,n,n,y,n,y,n,No Information,"Accuracy, F1 score, Precision, Recall, TPR",n,n,na,na,na,na,na,na,na
-38,https://dl.acm.org/doi/10.5555/2873021.2873029,ML+KB,ACM,2015,n,"Real World, Simulation",n,No Information,,n,n,,na,n,n,n,n,n,n,n,n,No Information,no metrics,n,n,na,na,na,na,na,na,na
-39,https://doi.org/10.1145/3508259.3508281,ML,ACM,2022,y,Real World,y,Public,,y,y,,na,y,y,n,y,n,n,n,n,Single-Split,"F1 score, F2 score, FPR, G-mean, Sensitivity, Specitivity, TPR, sensitivity, specitivity",n,y,n,y,y,y,y,y,y
-40,https://doi.org/10.1016/j.ifacol.2024.08.346,MB+ML,SCP,2024,n,No Information,n,No Information,,n,n,,na,y,y,n,y,n,n,n,n,No Information,Cluster related (Silhouette Index ...),n,n,na,na,na,na,na,na,na
-41,https://doi.org/10.1016/j.ifacol.2024.07.253,MB+ML,SCP,2024,n,Real World,n,No Information,,n,y,,na,y,n,n,n,n,n,n,n,Single-Split,"""Operational KPIs (man hour reduction, Accuracy, FNR, FPR, timeliness rate etc)""",n,n,na,na,na,na,na,na,na
-42,https://doi.org/10.1109/CoDIT62066.2024.10708526,ML,SCP,2024,y,Real World,n,Purchasable,,y,n,,na,n,y,y,y,y,n,n,n,T/V/T,"Accuracy, Confusion Matrix, F1 score, Precision, Recall",y,n,na,na,na,na,na,na,na
-43,https://doi.org/10.1109/IJCNN60899.2024.10649959,ML,SCP,2024,n,Real World,y,No Information,,y,y,,na,n,y,n,y,n,n,y,n,Single-Split,"""Qualitative metrics (estimations, Accuracy, F1 score, Precision, Recall, etc)"", false alram rates",n,n,na,na,na,na,na,na,na
+33,https://doi.org/10.1145/3486611.3491122,ML,ACM,2021,n,Simulation,n,No Information,,y,n,,na,y,y,y,n,n,n,y,y,Train/Test/Validation,"TPR, FPR",n,n,na,na,na,na,na,na,na
+34,https://dl.acm.org/doi/10.5555/3615924.3623632,ML,ACM,2023,n,"Real World, Simulation",n,Proprietary,,y,n,,na,n,y,y,n,n,n,y,y,No Information,"F1 score, AUC",n,n,na,na,na,na,na,na,na
+35,https://doi.org/10.1145/3486611.3486644,MB+ML,ACM,2021,n,Simulation,n,No Information,,y,n,,na,y,y,n,y,n,n,y,n,No Information,"Error Est., Operational KPIs",n,n,na,na,na,na,na,na,na
+36,https://doi.org/10.1145/2674061.2674067,ML+KB,ACM,2014,n,Real World,n,No Information,,y,n,,na,n,n,n,n,n,n,n,n,No Information,Qualitative metrics,n,n,na,na,na,na,na,na,na
+37,https://doi.org/10.1145/3587716.3587749,ML,ACM,2023,n,Real World,y,No Information,,y,n,,na,n,y,n,n,y,n,y,n,No Information,"F1 score, Accuracy, Recall, Precision",n,n,na,na,na,na,na,na,na
+38,https://dl.acm.org/doi/10.5555/2873021.2873029,ML+KB,ACM,2015,n,"Real World, Simulation",n,No Information,,n,n,,na,n,n,n,n,n,n,n,n,No Information,,n,n,na,na,na,na,na,na,na
+39,https://doi.org/10.1145/3508259.3508281,ML,ACM,2022,y,Real World,y,Public,,y,y,,na,y,y,n,y,n,n,n,n,Single-Split,"Sensitivity, Specificity, TPR, FPR, F2 score, F1 score, G-mean",n,y,n,y,y,y,y,y,y
+40,https://doi.org/10.1016/j.ifacol.2024.08.346,MB+ML,SCP,2024,n,No Information,n,No Information,,n,n,,na,y,y,n,y,n,n,n,n,No Information,Cluster related,n,n,na,na,na,na,na,na,na
+41,https://doi.org/10.1016/j.ifacol.2024.07.253,MB+ML,SCP,2024,n,Real World,n,No Information,,n,y,,na,y,n,n,n,n,n,n,n,Single-Split,"Accuracy, Operational KPIs",n,n,na,na,na,na,na,na,na
+42,https://doi.org/10.1109/CoDIT62066.2024.10708526,ML,SCP,2024,y,Real World,n,Purchasable,,y,n,,na,n,y,y,y,y,n,n,n,Train/Test/Validation,"Accuracy, Recall, Precision, F1 score, Confusion Matrix",y,n,na,na,na,na,na,na,na
+43,https://doi.org/10.1109/IJCNN60899.2024.10649959,ML,SCP,2024,n,Real World,y,No Information,,y,y,,na,n,y,n,y,n,n,y,n,Single-Split,"Accuracy, Recall, Precision, F1 score",n,n,na,na,na,na,na,na,na
 44,https://doi.org/10.1109/I2MTC60896.2024.10560803,ML,SCP,2024,n,Real World,y,No Information,,y,n,,na,n,n,n,n,n,n,y,n,Single-Split,Error Est.,n,n,na,na,na,na,na,na,na
-45,https://doi.org/10.1109/PHM-Hangzhou58797.2023.10482468,ML,SCP,2023,y,Real World,n,Purchasable,,n,y,,na,y,y,n,n,n,n,y,n,Cross Validation,"Accuracy, Confusion Matrix, F1 score, Precision, Recall",n,n,na,na,na,na,na,na,na
+45,https://doi.org/10.1109/PHM-Hangzhou58797.2023.10482468,ML,SCP,2023,y,Real World,n,Purchasable,,n,y,,na,y,y,n,n,n,n,y,n,Cross Validation,"Accuracy, Confusion Matrix, F1 score, Recall, Precision",n,n,na,na,na,na,na,na,na
 46,https://doi.org/10.1109/ICIST59754.2023.10367087,ML,SCP,2023,y,Real World,y,Purchasable,,y,n,,na,y,n,n,n,n,n,n,n,Cross Validation,Accuracy,n,n,na,na,na,na,na,na,na
-47,https://doi.org/10.26868/25222708.2023.1730,ML,SCP,2023,y,Simulation,y,Purchasable,,y,n,,na,y,y,n,y,n,n,n,n,Cross Validation,"Accuracy, Precision, Recall, Specitivity",n,n,na,na,na,na,na,na,na
-48,https://doi.org/10.26868/25222708.2023.1240,ML,SCP,2023,n,"Real World, Simulation",n,No Information,,y,n,,y,y,y,n,y,y,n,y,n,T/V/T,"Charts, Confusion Matrix, Error Est., Fault Detection Rate",n,n,na,na,na,na,na,na,na
+47,https://doi.org/10.26868/25222708.2023.1730,ML,SCP,2023,y,Simulation,y,Purchasable,,y,n,,na,y,y,n,y,n,n,n,n,Cross Validation,"Accuracy, Recall, Precision, Specificity",n,n,na,na,na,na,na,na,na
+48,https://doi.org/10.26868/25222708.2023.1240,ML,SCP,2023,n,"Real World, Simulation",n,No Information,,y,n,,y,y,y,n,y,y,n,y,n,Train/Test/Validation,"Fault Detection Rate, Error Est., Confusion Matrix, Charts",n,n,na,na,na,na,na,na,na
 49,https://doi.org/10.1109/ITOEC57671.2023.10291546,ML,SCP,2023,n,Experiment,n,No Information,,y,n,,na,n,n,n,n,n,n,n,n,No Information,Accuracy,n,n,na,na,na,na,na,na,na
-50,http://www.doi.org/10.35490/EC3.2023.213,ML,SCP,2023,n,Real World,n,No Information,,y,n,,na,n,n,n,n,n,n,n,n,No Information,"Accuracy, Cluster related (Silhouette Index ...), Precision, Sensitivity, Specitivity",n,n,na,na,na,na,na,na,na
+50,http://www.doi.org/10.35490/EC3.2023.213,ML,SCP,2023,n,Real World,n,No Information,,y,n,,na,n,n,n,n,n,n,n,n,No Information,"Accuracy, Specificity, Sensitivity, Precision",n,n,na,na,na,na,na,na,na
 51,https://doi.org/10.26868/25222708.2021.30357,ML,SCP,2021,n,"Real World, Simulation",n,No Information,,n,n,,na,y,n,n,n,n,n,n,n,Out of Sample,"Accuracy, Fault Detection Rate",n,n,na,na,na,na,na,na,na
-52,https://doi.org/10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927944,ML,SCP,2022,y,Real World,y,Purchasable,,y,n,,y,y,n,n,n,n,n,n,n,No Information,"F1 score, Precision, Recall",n,n,na,na,na,na,na,na,na
-53,https://doi.org/10.4230/OASIcs.DX.2024.22,ML,SCP,2024,n,Simulation,y,No Information,,y,n,,na,y,n,n,n,n,n,n,n,Single-Split,"Error Est., no metrics",n,n,na,na,na,na,na,na,na
-54,https://doi.org/10.1016/j.ifacol.2022.07.152,MB+ML,SCP,2022,y,Simulation,n,Public,,y,n,,na,y,y,n,y,n,n,y,n,No Information,"Charts, Error Est.",n,n,na,na,na,na,na,na,na
-55,https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00291,ML,SCP,2021,n,No Information,n,No Information,,n,n,,na,n,n,n,n,n,n,n,n,No Information,no metrics,n,n,na,na,na,na,na,na,na
-56,https://doi.org/10.1109/SmartNets50376.2021.9555424,ML+KB,SCP,2021,n,Real World,n,No Information,,y,y,,na,y,n,n,n,n,n,n,n,No Information,"Accuracy, Confusion Matrix, Precision, Recall",n,n,na,na,na,na,na,na,na
-57,https://doi.org/10.1088/1755-1315/675/1/012196,ML,SCP,2021,n,Experiment,n,No Information,,y,y,,na,y,n,n,n,n,n,n,n,T/V/T,Accuracy,n,n,na,na,na,na,na,na,na
+52,https://doi.org/10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927944,ML,SCP,2022,y,Real World,y,Purchasable,,y,n,,y,y,n,n,n,n,n,n,n,No Information,"Precision, Recall, F1 score",n,n,na,na,na,na,na,na,na
+53,https://doi.org/10.4230/OASIcs.DX.2024.22,ML,SCP,2024,n,Simulation,y,No Information,,y,n,,na,y,n,n,n,n,n,n,n,Single-Split,Error Est.,n,n,na,na,na,na,na,na,na
+54,https://doi.org/10.1016/j.ifacol.2022.07.152,MB+ML,SCP,2022,y,Simulation,n,Public,,y,n,,na,y,y,n,y,n,n,y,n,No Information,"Error Est., Charts",n,n,na,na,na,na,na,na,na
+55,https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00291,ML,SCP,2021,n,No Information,n,No Information,,n,n,,na,n,n,n,n,n,n,n,n,No Information,,n,n,na,na,na,na,na,na,na
+56,https://doi.org/10.1109/SmartNets50376.2021.9555424,ML+KB,SCP,2021,n,Real World,n,No Information,,y,y,,na,y,n,n,n,n,n,n,n,No Information,"Accuracy, Recall, Precision",n,n,na,na,na,na,na,na,na
+57,https://doi.org/10.1088/1755-1315/675/1/012196,ML,SCP,2021,n,Experiment,n,No Information,,y,y,,na,y,n,n,n,n,n,n,n,Train/Test/Validation,Accuracy,n,n,na,na,na,na,na,na,na
 58,https://doi.org/10.1051/e3sconf/202123303057,ML,SCP,2021,y,Real World,n,Purchasable,,n,n,,na,y,n,n,n,n,n,n,n,Single-Split,Q-statistic,n,n,na,na,na,na,na,na,na
-59,https://doi.org/10.1109/ISAP48318.2019.9065995,ML,SCP,2019,n,Real World,y,No Information,,y,n,,na,y,n,n,n,n,n,n,n,T/V/T,"Accuracy, Confusion Matrix",n,n,na,na,na,na,na,na,na
-60,https://doi.org/10.1109/IECON43393.2020.9254466,ML,SCP,2020,n,Real World,n,No Information,,n,n,,na,n,y,n,y,y,n,y,n,Single-Split,"Accuracy, Confusion Matrix, F1 score, Precision, Recall",n,n,na,na,na,na,na,na,na
-61,https://doi.org/10.1109/ICIoT48696.2020.9089508,ML,SCP,2020,n,Simulation,y,No Information,,y,n,,na,y,y,n,y,n,n,y,n,Single-Split,"""Qualitative metrics (estimations, Accuracy, F1 score, FPR, Fault Detection Rate, Precision, Recall, Sensitivity, Specitivity, etc)"", false alram rates, specitivity",n,n,na,na,na,na,na,na,na
+59,https://doi.org/10.1109/ISAP48318.2019.9065995,ML,SCP,2019,n,Real World,y,No Information,,y,n,,na,y,n,n,n,n,n,n,n,Train/Test/Validation,"Accuracy, Confusion Matrix",n,n,na,na,na,na,na,na,na
+60,https://doi.org/10.1109/IECON43393.2020.9254466,ML,SCP,2020,n,Real World,n,No Information,,n,n,,na,n,y,n,y,y,n,y,n,Single-Split,"F1 score, Accuracy, Recall, Precision",n,n,na,na,na,na,na,na,na
+61,https://doi.org/10.1109/ICIoT48696.2020.9089508,ML,SCP,2020,n,Simulation,y,No Information,,y,n,,na,y,y,n,y,n,n,y,n,Single-Split,"Accuracy, Precision, Recall, F1 score, Specificity, Fault Detection Rate",n,n,na,na,na,na,na,na,na
 62,https://Publications.ibpsa.org/proceedings/bs/2019/papers/BS2019_210311.pdf,MB+ML,SCP,2019,n,"Real World, Simulation",n,No Information,,y,n,,na,y,y,n,n,n,n,n,n,Out of Sample,"Accuracy, Charts",n,n,na,na,na,na,na,na,na
 63,https://doi.org/10.1016/j.energy.2020.117323,ML,SCP,2020,y,Experiment,y,Proprietary,,y,n,,y,y,n,n,n,n,n,n,n,Cross Validation,"Accuracy, Charts",n,n,na,na,na,na,na,na,na
-64,https://doi.org/10.1109/COASE.2017.8256214,MB+ML,SCP,2017,y,"Real World, Simulation",n,Purchasable,,y,n,,na,y,n,n,n,n,n,n,n,Out of Sample,"Charts, F1 score",n,n,na,na,na,na,na,na,na
-65,https://doi.org/10.1109/AIMS.2013.34,ML,SCP,2013,y,Experiment,n,Purchasable,,y,n,,na,y,n,n,n,n,n,n,n,No Information,"Accuracy, F1 score, Precision, Recall, Sensitivity, Specitivity",n,n,na,na,na,na,na,na,na
-66,https://doi.org/10.1109/CoASE.2014.6899463,MB+ML,SCP,2014,n,Simulation,y,No Information,,y,y,,na,y,n,n,n,n,n,n,n,No Information,"Charts, Error Est., Q-statistic",n,n,na,na,na,na,na,na,na
+64,https://doi.org/10.1109/COASE.2017.8256214,MB+ML,SCP,2017,y,"Real World, Simulation",n,Purchasable,,y,n,,na,y,n,n,n,n,n,n,n,Out of Sample,"F1 score, Charts",n,n,na,na,na,na,na,na,na
+65,https://doi.org/10.1109/AIMS.2013.34,ML,SCP,2013,y,Experiment,n,Purchasable,,y,n,,na,y,n,n,n,n,n,n,n,No Information,"Specificity, Sensitivity, F1 score, Accuracy, Precision",n,n,na,na,na,na,na,na,na
+66,https://doi.org/10.1109/CoASE.2014.6899463,MB+ML,SCP,2014,n,Simulation,y,No Information,,y,y,,na,y,n,n,n,n,n,n,n,No Information,"Error Est., Charts",n,n,na,na,na,na,na,na,na
 
