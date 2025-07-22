@@ -1,0 +1,4393 @@
+[
+    {
+        "doi": "10.1109/CCDC.2014.6852414",
+        "citation-count": "0",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56303912900",
+                "given-name": "Han",
+                "surname": "Qi",
+                "document-count": "2",
+                "cited-by-count": "12",
+                "citation-count": "12",
+                "h-index": "1",
+                "current-affiliation": "Beijing University of Civil Engineering and Architecture, Beijing, China",
+                "subject-area": {
+                    "Engineering (all)": "1",
+                    "Decision Sciences (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57199710167",
+                "given-name": "Dong",
+                "surname": "Wei",
+                "document-count": "50",
+                "cited-by-count": "190",
+                "citation-count": "193",
+                "h-index": "9",
+                "current-affiliation": "School of Computer Science and Technology, Beijing, China",
+                "subject-area": {
+                    "Engineering (all)": "23",
+                    "Mathematics (all)": "14",
+                    "Computer Science (all)": "14"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/ICTAI.2018.00136",
+        "citation-count": "15",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57201094511",
+                "given-name": "Maitreyee",
+                "surname": "Dey",
+                "document-count": "26",
+                "cited-by-count": "395",
+                "citation-count": "460",
+                "h-index": "12",
+                "current-affiliation": "School of Computing and Digital Media, London, United Kingdom",
+                "subject-area": {
+                    "Engineering (all)": "10",
+                    "Physics and Astronomy (all)": "6",
+                    "Computer Science (all)": "4"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57201096589",
+                "given-name": "Soumya Prakash",
+                "surname": "Rana",
+                "document-count": "31",
+                "cited-by-count": "440",
+                "citation-count": "506",
+                "h-index": "13",
+                "current-affiliation": "School of Engineering, London, United Kingdom",
+                "subject-area": {
+                    "Engineering (all)": "10",
+                    "Physics and Astronomy (all)": "9",
+                    "Computer Science (all)": "7"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7006033464",
+                "given-name": "Sandra E.M.",
+                "surname": "Dudley",
+                "document-count": "138",
+                "cited-by-count": "1167",
+                "citation-count": "1352",
+                "h-index": "21",
+                "current-affiliation": "School of Engineering Systems and Design, London, United Kingdom",
+                "subject-area": {
+                    "Engineering (all)": "61",
+                    "Computer Science (all)": "33",
+                    "Physics and Astronomy (all)": "30"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/ICVR57957.2023.10169760",
+        "citation-count": "1",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58515728500",
+                "given-name": "Jiang",
+                "surname": "Haigang",
+                "document-count": "2",
+                "cited-by-count": "2",
+                "citation-count": "2",
+                "h-index": "1",
+                "current-affiliation": "Ltd., Shanghai, China",
+                "subject-area": {
+                    "Computer Science (all)": "2",
+                    "Materials Science (all)": "1",
+                    "Mathematics (all)": "1"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58515728600",
+                "given-name": "Ling",
+                "surname": "Rui",
+                "document-count": "2",
+                "cited-by-count": "2",
+                "citation-count": "2",
+                "h-index": "1",
+                "current-affiliation": "Ltd., Shanghai, China",
+                "subject-area": {
+                    "Computer Science (all)": "1",
+                    "Physics and Astronomy (all)": "1"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57745939600",
+                "given-name": "Tang",
+                "surname": "Linfeng",
+                "document-count": "2",
+                "cited-by-count": "2",
+                "citation-count": "2",
+                "h-index": "1",
+                "current-affiliation": "Ltd., Shanghai, China",
+                "subject-area": {
+                    "Computer Science (all)": "1",
+                    "Engineering (all)": "1"
+                },
+                "affil-type": "Industry"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/AIKIIE60097.2023.10390401",
+        "citation-count": "0",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58928927600",
+                "given-name": "Yuan",
+                "surname": "Liu",
+                "document-count": "2",
+                "cited-by-count": "1",
+                "citation-count": "1",
+                "h-index": "1",
+                "current-affiliation": "State Grid Henan Information & Telecommunication Company (Data Center), Zhengzhou, China",
+                "subject-area": {
+                    "Computer Science (all)": "2"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58928585800",
+                "given-name": "Haitao",
+                "surname": "Zhou",
+                "document-count": "4",
+                "cited-by-count": "1",
+                "citation-count": "1",
+                "h-index": "1",
+                "current-affiliation": "State Grid Henan Electric Power Company Economic and Technological Research Institute, Henan, China",
+                "subject-area": {
+                    "Computer Science (all)": "2"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58929272900",
+                "given-name": "Zepeng",
+                "surname": "Li",
+                "document-count": "4",
+                "cited-by-count": "4",
+                "citation-count": "4",
+                "h-index": "1",
+                "current-affiliation": "State Grid Henan Information and Telecommunication Company, Zhengzhou, China",
+                "subject-area": {
+                    "Computer Science (all)": "2"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58026522600",
+                "given-name": "Lin",
+                "surname": "Mei",
+                "document-count": "12",
+                "cited-by-count": "5",
+                "citation-count": "5",
+                "h-index": "1",
+                "current-affiliation": "Electric Power of Henan, Zhengzhou, China",
+                "subject-area": {
+                    "Computer Science (all)": "5"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58929078900",
+                "given-name": "Di",
+                "surname": "Cai",
+                "document-count": "4",
+                "cited-by-count": "4",
+                "citation-count": "4",
+                "h-index": "1",
+                "current-affiliation": "State Grid Henan Information and Telecommunication Company, Zhengzhou, China",
+                "subject-area": {
+                    "Computer Science (all)": "3"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58928751500",
+                "given-name": "Jian",
+                "surname": "Hu",
+                "document-count": "2",
+                "cited-by-count": "1",
+                "citation-count": "1",
+                "h-index": "1",
+                "current-affiliation": "State Grid Henan Information & Telecommunication Company (Data Center), Zhengzhou, China",
+                "subject-area": {
+                    "Computer Science (all)": "2"
+                },
+                "affil-type": "Industry"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/ICICT55905.2022.00043",
+        "citation-count": "0",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/36608740000",
+                "given-name": "Samaneh",
+                "surname": "Nadali",
+                "document-count": "6",
+                "cited-by-count": "216",
+                "citation-count": "217",
+                "h-index": "4",
+                "current-affiliation": "Department of Research and Development, Kuala Lumpur, Malaysia",
+                "subject-area": {
+                    "Computer Science (all)": "3"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57870173100",
+                "given-name": "Tsi Hao",
+                "surname": "Yong",
+                "document-count": "2",
+                "cited-by-count": "0",
+                "citation-count": "0",
+                "h-index": "0",
+                "current-affiliation": "Department of Research and Development, Kuala Lumpur, Malaysia",
+                "subject-area": {
+                    "Computer Science (all)": "1"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57870328700",
+                "given-name": "David",
+                "surname": "Glover",
+                "document-count": "2",
+                "cited-by-count": "0",
+                "citation-count": "0",
+                "h-index": "0",
+                "current-affiliation": "Department of Research and Development, Kuala Lumpur, Malaysia",
+                "subject-area": {
+                    "Computer Science (all)": "2",
+                    "Mathematics (all)": "1",
+                    "Social Sciences (all)": "1"
+                },
+                "affil-type": "Industry"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/IECON.2015.7392181",
+        "citation-count": "17",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57215209104",
+                "given-name": "Usman",
+                "surname": "Habib",
+                "document-count": "49",
+                "cited-by-count": "747",
+                "citation-count": "779",
+                "h-index": "14",
+                "current-affiliation": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Topi, Pakistan",
+                "subject-area": {
+                    "Engineering (all)": "17",
+                    "Computer Science (all)": "13"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/24403198800",
+                "given-name": "Gerhard",
+                "surname": "Zucker",
+                "document-count": "78",
+                "cited-by-count": "646",
+                "citation-count": "776",
+                "h-index": "15",
+                "current-affiliation": "Sustainable Thermal Energy Systems, Vienna, Austria",
+                "subject-area": {
+                    "Engineering (all)": "22",
+                    "Computer Science (all)": "18"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/55984561800",
+                "given-name": "Max",
+                "surname": "Bl\u00f6chle",
+                "document-count": "6",
+                "cited-by-count": "71",
+                "citation-count": "79",
+                "h-index": "5",
+                "current-affiliation": "Department of Energetics, Vienna, Austria",
+                "subject-area": {
+                    "Engineering (all)": "4",
+                    "Energy (all)": "2"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/24828972100",
+                "given-name": "Florian",
+                "surname": "Judex",
+                "document-count": "28",
+                "cited-by-count": "228",
+                "citation-count": "243",
+                "h-index": "10",
+                "current-affiliation": "Department of Energetics, Vienna, Austria",
+                "subject-area": {
+                    "Engineering (all)": "5"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56146136800",
+                "given-name": "Jan",
+                "surname": "Haase",
+                "document-count": "129",
+                "cited-by-count": "520",
+                "citation-count": "636",
+                "h-index": "15",
+                "current-affiliation": "NORDAKADEMIE Hochschule der Wirtschaft, Elmshorn, Germany",
+                "subject-area": {
+                    "Engineering (all)": "38",
+                    "Computer Science (all)": "30"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/UIC-ATC.2017.8397584",
+        "citation-count": "7",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57201094511",
+                "given-name": "Maitreyee",
+                "surname": "Dey",
+                "document-count": "26",
+                "cited-by-count": "395",
+                "citation-count": "460",
+                "h-index": "12",
+                "current-affiliation": "School of Computing and Digital Media, London, United Kingdom",
+                "subject-area": {
+                    "Engineering (all)": "10",
+                    "Physics and Astronomy (all)": "6",
+                    "Computer Science (all)": "4"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57756887900",
+                "given-name": "Manik",
+                "surname": "Gupta",
+                "document-count": "36",
+                "cited-by-count": "229",
+                "citation-count": "253",
+                "h-index": "9",
+                "current-affiliation": "Birla Institute of Technology and Science, Pilani, Pilani, India",
+                "subject-area": {
+                    "Computer Science (all)": "10"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/48161713600",
+                "given-name": "Mikdam",
+                "surname": "Turkey",
+                "document-count": "12",
+                "cited-by-count": "111",
+                "citation-count": "119",
+                "h-index": "6",
+                "current-affiliation": "School of Engineering, London, United Kingdom",
+                "subject-area": {
+                    "Mathematics (all)": "5",
+                    "Computer Science (all)": "3"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7006033464",
+                "given-name": "Sandra E.M.",
+                "surname": "Dudley",
+                "document-count": "138",
+                "cited-by-count": "1167",
+                "citation-count": "1352",
+                "h-index": "21",
+                "current-affiliation": "School of Engineering Systems and Design, London, United Kingdom",
+                "subject-area": {
+                    "Engineering (all)": "61",
+                    "Computer Science (all)": "33",
+                    "Physics and Astronomy (all)": "30"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/ICSensT.2015.7438504",
+        "citation-count": "0",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57378180000",
+                "given-name": "Ying",
+                "surname": "Guo",
+                "document-count": "64",
+                "cited-by-count": "941",
+                "citation-count": "1069",
+                "h-index": "17",
+                "current-affiliation": "Commonwealth Scientific and Industrial Research Organisation, Canberra, Australia",
+                "subject-area": {
+                    "Engineering (all)": "15",
+                    "Computer Science (all)": "10"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/8384822000",
+                "given-name": "Josh R.",
+                "surname": "Wall",
+                "document-count": "30",
+                "cited-by-count": "815",
+                "citation-count": "881",
+                "h-index": "14",
+                "current-affiliation": "Commonwealth Scientific and Industrial Research Organisation, Canberra, Australia",
+                "subject-area": {
+                    "Engineering (all)": "10"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/55720537400",
+                "given-name": "Jiaming",
+                "surname": "Li",
+                "document-count": "63",
+                "cited-by-count": "1610",
+                "citation-count": "1792",
+                "h-index": "22",
+                "current-affiliation": "Commonwealth Scientific and Industrial Research Organisation, Canberra, Australia",
+                "subject-area": {
+                    "Engineering (all)": "16",
+                    "Computer Science (all)": "12"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/26422640600",
+                "given-name": "Sam R.",
+                "surname": "West",
+                "document-count": "31",
+                "cited-by-count": "730",
+                "citation-count": "761",
+                "h-index": "13",
+                "current-affiliation": "Commonwealth Scientific and Industrial Research Organisation, Canberra, Australia",
+                "subject-area": {
+                    "Engineering (all)": "8",
+                    "Energy (all)": "6",
+                    "Mathematics (all)": "6"
+                },
+                "affil-type": "non-academic research"
+            }
+        ]
+    },
+    {
+        "doi": "10.23919/IPEC-Himeji2022-ECCE53331.2022.9807260",
+        "citation-count": "1",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/50161905600",
+                "given-name": "Hasmat",
+                "surname": "Malik",
+                "document-count": "242",
+                "cited-by-count": "2849",
+                "citation-count": "4015",
+                "h-index": "32",
+                "current-affiliation": "Universiti Teknologi Malaysia, Johor Bahru, Malaysia",
+                "subject-area": {
+                    "Engineering (all)": "69",
+                    "Computer Science (all)": "65"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57213503663",
+                "given-name": "Sanjib Kumar",
+                "surname": "Panda",
+                "document-count": "529",
+                "cited-by-count": "9478",
+                "citation-count": "11385",
+                "h-index": "54",
+                "current-affiliation": "National University of Singapore, Singapore City, Singapore",
+                "subject-area": {
+                    "Engineering (all)": "105",
+                    "Energy (all)": "186"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57804202500",
+                "given-name": "Kameshwar",
+                "surname": "Pootla",
+                "document-count": "1",
+                "cited-by-count": "1",
+                "citation-count": "1",
+                "h-index": "1",
+                "current-affiliation": "Department of Electrical Engineering and Computer Sciences, Berkeley, United States",
+                "subject-area": {
+                    "Energy (all)": "1",
+                    "Mathematics (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7004447999",
+                "given-name": "Costas J.",
+                "surname": "Spanos",
+                "document-count": "327",
+                "cited-by-count": "7572",
+                "citation-count": "9298",
+                "h-index": "51",
+                "current-affiliation": "Department of Electrical Engineering and Computer Science, Berkeley, United States",
+                "subject-area": {
+                    "Engineering (all)": "224",
+                    "Physics and Astronomy (all)": "99",
+                    "Materials Science (all)": "72"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/CoDIT55151.2022.9803907",
+        "citation-count": "8",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57422645000",
+                "given-name": "Yanis",
+                "surname": "Masdoua",
+                "document-count": "6",
+                "cited-by-count": "23",
+                "citation-count": "24",
+                "h-index": "3",
+                "current-affiliation": "Universit\u00e9 de Lorraine, Nancy, France",
+                "subject-area": {
+                    "Mathematics (all)": "3",
+                    "Computer Science (all)": "3",
+                    "Engineering (all)": "3"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/6508242401",
+                "given-name": "Moussa",
+                "surname": "Boukhnifer",
+                "document-count": "138",
+                "cited-by-count": "1309",
+                "citation-count": "1528",
+                "h-index": "21",
+                "current-affiliation": "Universit\u00e9 de Lorraine, Nancy, France",
+                "subject-area": {
+                    "Engineering (all)": "56",
+                    "Mathematics (all)": "40"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/6602469080",
+                "given-name": "Kondo H.",
+                "surname": "Adjallah",
+                "document-count": "110",
+                "cited-by-count": "832",
+                "citation-count": "877",
+                "h-index": "14",
+                "current-affiliation": "Laboratoire de Conception, Optimisation et Mod\u00e9lisation des Syst\u00e8mes (LCOMS), Lome, Togo",
+                "subject-area": {
+                    "Engineering (all)": "28",
+                    "Mathematics (all)": "27"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/ISAECT.2018.8618755",
+        "citation-count": "9",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57194787097",
+                "given-name": "Claudio Giovanni",
+                "surname": "Mattera",
+                "document-count": "14",
+                "cited-by-count": "223",
+                "citation-count": "279",
+                "h-index": "9",
+                "current-affiliation": "Syddansk Universitet, Odense, Denmark",
+                "subject-area": {
+                    "Engineering (all)": "5",
+                    "Computer Science (all)": "5"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7005800331",
+                "given-name": "Joseba",
+                "surname": "Quevedo",
+                "document-count": "194",
+                "cited-by-count": "3161",
+                "citation-count": "4052",
+                "h-index": "34",
+                "current-affiliation": "UPC-ESAII, Terrassa, Spain",
+                "subject-area": {
+                    "Engineering (all)": "33",
+                    "Computer Science (all)": "27"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/6508340860",
+                "given-name": "Teresa",
+                "surname": "Escobet",
+                "document-count": "89",
+                "cited-by-count": "1633",
+                "citation-count": "1899",
+                "h-index": "23",
+                "current-affiliation": "Industrial and ICT Engineering, Barcelona, Spain",
+                "subject-area": {
+                    "Engineering (all)": "20",
+                    "Computer Science (all)": "13"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/15061871700",
+                "given-name": "Hamid Reza",
+                "surname": "Shaker",
+                "document-count": "179",
+                "cited-by-count": "1900",
+                "citation-count": "2432",
+                "h-index": "27",
+                "current-affiliation": "Syddansk Universitet, Odense, Denmark",
+                "subject-area": {
+                    "Engineering (all)": "93",
+                    "Energy (all)": "37"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/37064786900",
+                "given-name": "Muhyiddine",
+                "surname": "Jradi",
+                "document-count": "101",
+                "cited-by-count": "1403",
+                "citation-count": "1669",
+                "h-index": "23",
+                "current-affiliation": "Center for Energy Informatics, Odense, Denmark",
+                "subject-area": {
+                    "Engineering (all)": "27",
+                    "Energy (all)": "24"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/ICASET.2019.8714453",
+        "citation-count": "7",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57898791300",
+                "given-name": "Ali",
+                "surname": "Behravan",
+                "document-count": "13",
+                "cited-by-count": "55",
+                "citation-count": "78",
+                "h-index": "6",
+                "current-affiliation": "Universit\u00e4t Siegen, Siegen, Germany",
+                "subject-area": {
+                    "Mathematics (all)": "7",
+                    "Computer Science (all)": "6",
+                    "Engineering (all)": "6"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57206905108",
+                "given-name": "Mohammad",
+                "surname": "Abboush",
+                "document-count": "14",
+                "cited-by-count": "72",
+                "citation-count": "95",
+                "h-index": "6",
+                "current-affiliation": "Institute for Software and Systems Engineering, Clausthal-Zellerfeld, Germany",
+                "subject-area": {
+                    "Physics and Astronomy (all)": "7",
+                    "Engineering (all)": "7",
+                    "Computer Science (all)": "6"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/9733588000",
+                "given-name": "Roman",
+                "surname": "Obermaisser",
+                "document-count": "323",
+                "cited-by-count": "1510",
+                "citation-count": "2172",
+                "h-index": "21",
+                "current-affiliation": "Universit\u00e4t Siegen, Siegen, Germany",
+                "subject-area": {
+                    "Computer Science (all)": "89",
+                    "Engineering (all)": "86"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/ETFA46521.2020.9212088",
+        "citation-count": "17",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57211500670",
+                "given-name": "V\u00edctor",
+                "surname": "Mart\u00ednez-Viol",
+                "document-count": "15",
+                "cited-by-count": "124",
+                "citation-count": "129",
+                "h-index": "6",
+                "current-affiliation": "Electronic Engineering Department - MCIA Group, Barcelona, Spain",
+                "subject-area": {
+                    "Engineering (all)": "6",
+                    "Computer Science (all)": "6"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57211503158",
+                "given-name": "Eva M.",
+                "surname": "Urbano",
+                "document-count": "14",
+                "cited-by-count": "91",
+                "citation-count": "95",
+                "h-index": "6",
+                "current-affiliation": "Department of Electronics Engineering, Barcelona, Spain",
+                "subject-area": {
+                    "Engineering (all)": "9",
+                    "Energy (all)": "7"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/54403152600",
+                "given-name": "Konstantinos",
+                "surname": "Kampouropoulos",
+                "document-count": "34",
+                "cited-by-count": "339",
+                "citation-count": "348",
+                "h-index": "10",
+                "current-affiliation": "Department of Electronics Engineering, Barcelona, Spain",
+                "subject-area": {
+                    "Engineering (all)": "11",
+                    "Energy (all)": "8"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/37088070600",
+                "given-name": "Miguel",
+                "surname": "Delgado-Prieto",
+                "document-count": "93",
+                "cited-by-count": "1778",
+                "citation-count": "1973",
+                "h-index": "22",
+                "current-affiliation": "Universitat Polit\u00e8cnica de Catalunya, Barcelona, Spain",
+                "subject-area": {
+                    "Engineering (all)": "28",
+                    "Computer Science (all)": "27"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/24483824200",
+                "given-name": "Luis",
+                "surname": "Romeral",
+                "document-count": "260",
+                "cited-by-count": "5252",
+                "citation-count": "6870",
+                "h-index": "39",
+                "current-affiliation": "Universitat Polit\u00e8cnica de Catalunya, Barcelona, Spain",
+                "subject-area": {
+                    "Engineering (all)": "57",
+                    "Energy (all)": "48"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/ComplexSys.2015.7385977",
+        "citation-count": "4",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/55239625900",
+                "given-name": "Ying",
+                "surname": "Yan",
+                "document-count": "61",
+                "cited-by-count": "418",
+                "citation-count": "470",
+                "h-index": "12",
+                "current-affiliation": "Nanjing University of Information Science & Technology, Nanjing, China",
+                "subject-area": {
+                    "Engineering (all)": "12",
+                    "Computer Science (all)": "11"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7005295546",
+                "given-name": "Peter B.",
+                "surname": "Luh",
+                "document-count": "419",
+                "cited-by-count": "7773",
+                "citation-count": "10155",
+                "h-index": "53",
+                "current-affiliation": "UConn College of Engineering, Storrs, United States",
+                "subject-area": {
+                    "Engineering (all)": "225",
+                    "Energy (all)": "94"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7006476249",
+                "given-name": "Krishna K.",
+                "surname": "Pattipati",
+                "document-count": "492",
+                "cited-by-count": "7755",
+                "citation-count": "10700",
+                "h-index": "54",
+                "current-affiliation": "UConn College of Engineering, Storrs, United States",
+                "subject-area": {
+                    "Engineering (all)": "81"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/ICIEA51954.2021.9516436",
+        "citation-count": "9",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/59157762700",
+                "given-name": "Fanyong",
+                "surname": "Cheng",
+                "document-count": "54",
+                "cited-by-count": "610",
+                "citation-count": "721",
+                "h-index": "13",
+                "current-affiliation": "Key Laboratory of Advanced Perception and Intelligent Control of High-end Equipment, Wuhu, China",
+                "subject-area": {
+                    "Engineering (all)": "18",
+                    "Computer Science (all)": "14"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7401711135",
+                "given-name": "Wenjian Jian",
+                "surname": "Cai",
+                "document-count": "315",
+                "cited-by-count": "5832",
+                "citation-count": "8352",
+                "h-index": "49",
+                "current-affiliation": "Marine Engineering College, Dalian, China",
+                "subject-area": {
+                    "Engineering (all)": "98"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57206896508",
+                "given-name": "Huanyue",
+                "surname": "Liao",
+                "document-count": "13",
+                "cited-by-count": "141",
+                "citation-count": "154",
+                "h-index": "6",
+                "current-affiliation": "School of Electrical and Electronic Engineering, Singapore City, Singapore",
+                "subject-area": {
+                    "Engineering (all)": "12",
+                    "Energy (all)": "7",
+                    "Mathematics (all)": "4"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57200822612",
+                "given-name": "Bingjie",
+                "surname": "Wu",
+                "document-count": "13",
+                "cited-by-count": "171",
+                "citation-count": "202",
+                "h-index": "7",
+                "current-affiliation": "Nanyang Technological University, Singapore City, Singapore",
+                "subject-area": {
+                    "Engineering (all)": "6"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56152339200",
+                "given-name": "Swapnil",
+                "surname": "Dubey",
+                "document-count": "62",
+                "cited-by-count": "3155",
+                "citation-count": "3555",
+                "h-index": "25",
+                "current-affiliation": "Energy Research Institute @NTU, Singapore City, Singapore",
+                "subject-area": {
+                    "Energy (all)": "22",
+                    "Engineering (all)": "21"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/PowerAfrica52236.2021.9543158",
+        "citation-count": "8",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57208135647",
+                "given-name": "Ashraf",
+                "surname": "Alghanmi",
+                "document-count": "10",
+                "cited-by-count": "53",
+                "citation-count": "61",
+                "h-index": "4",
+                "current-affiliation": "Department of Mechanical Engineering Technology, Yanbu, Saudi Arabia",
+                "subject-area": {
+                    "Energy (all)": "2",
+                    "Engineering (all)": "2"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56285338100",
+                "given-name": "Akilu",
+                "surname": "Yunusa-Kaltungo",
+                "document-count": "111",
+                "cited-by-count": "1076",
+                "citation-count": "1485",
+                "h-index": "24",
+                "current-affiliation": "Department of Mechanical and Aerospace Engineering, Manchester, United Kingdom",
+                "subject-area": {
+                    "Engineering (all)": "19",
+                    "Energy (all)": "20"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7403979110",
+                "given-name": "Rodger E.",
+                "surname": "Edwards",
+                "document-count": "82",
+                "cited-by-count": "933",
+                "citation-count": "1081",
+                "h-index": "17",
+                "current-affiliation": "Department of Mechanics, Manchester, United Kingdom",
+                "subject-area": {
+                    "Engineering (all)": "14",
+                    "Environmental Science (all)": "13"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/BigData.2016.7840749",
+        "citation-count": "6",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57193617439",
+                "given-name": "Bradford",
+                "surname": "Littooy",
+                "document-count": "1",
+                "cited-by-count": "6",
+                "citation-count": "6",
+                "h-index": "1",
+                "current-affiliation": "Ecorithm, Goleta, United States",
+                "subject-area": {
+                    "Computer Science (all)": "1"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/6506908219",
+                "given-name": "Sophie",
+                "surname": "Loire",
+                "document-count": "20",
+                "cited-by-count": "465",
+                "citation-count": "481",
+                "h-index": "7",
+                "current-affiliation": "Bruker Corporation, Billerica, United States",
+                "subject-area": {
+                    "Engineering (all)": "6",
+                    "Multidisciplinary": "3",
+                    "Physics and Astronomy (all)": "3"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/55906575300",
+                "given-name": "Michael",
+                "surname": "Georgescu",
+                "document-count": "6",
+                "cited-by-count": "71",
+                "citation-count": "79",
+                "h-index": "4",
+                "current-affiliation": "Ecorithm Inc., Santa Barbara, United States",
+                "subject-area": {
+                    "Engineering (all)": "4",
+                    "Mathematics (all)": "3",
+                    "Computer Science (all)": "2"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7004805028",
+                "given-name": "Igor",
+                "surname": "Mezi\u0107",
+                "document-count": "273",
+                "cited-by-count": "10457",
+                "citation-count": "16720",
+                "h-index": "52",
+                "current-affiliation": "AIMdyn, Inc., Santa Barbara, United States",
+                "subject-area": {
+                    "Engineering (all)": "73",
+                    "Mathematics (all)": "46"
+                },
+                "affil-type": "Industry"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/CCTA.2019.8920554",
+        "citation-count": "6",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57202050448",
+                "given-name": "Mariam",
+                "surname": "Elnour",
+                "document-count": "19",
+                "cited-by-count": "769",
+                "citation-count": "888",
+                "h-index": "12",
+                "current-affiliation": "College of Engineering, College Station, United States",
+                "subject-area": {
+                    "Energy (all)": "4",
+                    "Computer Science (all)": "4",
+                    "Mathematics (all)": "4"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/24172813000",
+                "given-name": "Nader",
+                "surname": "Meskin",
+                "document-count": "311",
+                "cited-by-count": "5356",
+                "citation-count": "7020",
+                "h-index": "41",
+                "current-affiliation": "Qatar University, Doha, Qatar",
+                "subject-area": {
+                    "Engineering (all)": "114",
+                    "Computer Science (all)": "80"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/23484518400",
+                "given-name": "Mohamed Ibrahim",
+                "surname": "Al-Naemi",
+                "document-count": "10",
+                "cited-by-count": "215",
+                "citation-count": "218",
+                "h-index": "6",
+                "current-affiliation": "Department of Electrical Engineering,\u00a0College of Engineering,\u00a0Qatar University, Doha, Qatar",
+                "subject-area": {
+                    "Computer Science (all)": "4",
+                    "Engineering (all)": "3"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/BigData.2017.8258421",
+        "citation-count": "16",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57198522513",
+                "given-name": "Yimin",
+                "surname": "Chen",
+                "document-count": "31",
+                "cited-by-count": "323",
+                "citation-count": "420",
+                "h-index": "11",
+                "current-affiliation": "Building Technology and Urban Systems Division, Berkeley, United States",
+                "subject-area": {
+                    "Engineering (all)": "8"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/8935099900",
+                "given-name": "Jin",
+                "surname": "Wen",
+                "document-count": "128",
+                "cited-by-count": "3698",
+                "citation-count": "4640",
+                "h-index": "33",
+                "current-affiliation": "Drexel University College of Engineering, Philadelphia, United States",
+                "subject-area": {
+                    "Engineering (all)": "40"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/CASE56687.2023.10260667",
+        "citation-count": "0",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57361524300",
+                "given-name": "Wunna",
+                "surname": "Tun",
+                "document-count": "3",
+                "cited-by-count": "50",
+                "citation-count": "51",
+                "h-index": "2",
+                "current-affiliation": "Architecture and Building, Sydney, Australia",
+                "subject-area": {
+                    "Engineering (all)": "3",
+                    "Physics and Astronomy (all)": "2",
+                    "Biochemistry, Genetics and Molecular Biology (all)": "2"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/23101564800",
+                "given-name": "Johnny Kwok Wai",
+                "surname": "Wong",
+                "document-count": "71",
+                "cited-by-count": "4001",
+                "citation-count": "4373",
+                "h-index": "32",
+                "current-affiliation": "University of Technology Sydney, Sydney, Australia",
+                "subject-area": {
+                    "Engineering (all)": "14"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/24342010000",
+                "given-name": "Sai Ho",
+                "surname": "Ling",
+                "document-count": "223",
+                "cited-by-count": "4716",
+                "citation-count": "5391",
+                "h-index": "38",
+                "current-affiliation": "University of Technology Sydney, Sydney, Australia",
+                "subject-area": {
+                    "Computer Science (all)": "56",
+                    "Engineering (all)": "56"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/FIT60620.2023.00036",
+        "citation-count": "4",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57951575700",
+                "given-name": "Faizan",
+                "surname": "Hamayat",
+                "document-count": "8",
+                "cited-by-count": "16",
+                "citation-count": "21",
+                "h-index": "3",
+                "current-affiliation": "Shenzhen AiMall Tech, Islamabad, Pakistan",
+                "subject-area": {
+                    "Computer Science (all)": "6",
+                    "Mathematics (all)": "4"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56039696500",
+                "given-name": "Rana Fayyaz",
+                "surname": "Ahmad",
+                "document-count": "33",
+                "cited-by-count": "653",
+                "citation-count": "679",
+                "h-index": "9",
+                "current-affiliation": "Machine Learning and Deep Learning Lab Artificial Intelligence Technology Centre, Islamabad, Pakistan",
+                "subject-area": {
+                    "Computer Science (all)": "8"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58903461600",
+                "given-name": "Amin",
+                "surname": "Ud Din",
+                "document-count": "1",
+                "cited-by-count": "4",
+                "citation-count": "4",
+                "h-index": "1",
+                "current-affiliation": "National Center for Physics (NCP), Islamabad, Pakistan",
+                "subject-area": {
+                    "Computer Science (all)": "1",
+                    "Engineering (all)": "1"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56289483000",
+                "given-name": "Syed",
+                "surname": "Zubair",
+                "document-count": "29",
+                "cited-by-count": "399",
+                "citation-count": "586",
+                "h-index": "14",
+                "current-affiliation": "Military Technological College Muscat Oman Electrical Engineering Department, Lahore, Pakistan",
+                "subject-area": {
+                    "Engineering (all)": "10",
+                    "Computer Science (all)": "7"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/KBEI.2017.8324986",
+        "citation-count": "8",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57898791300",
+                "given-name": "Ali",
+                "surname": "Behravan",
+                "document-count": "13",
+                "cited-by-count": "55",
+                "citation-count": "78",
+                "h-index": "6",
+                "current-affiliation": "Universit\u00e4t Siegen, Siegen, Germany",
+                "subject-area": {
+                    "Mathematics (all)": "7",
+                    "Computer Science (all)": "6",
+                    "Engineering (all)": "6"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/9733588000",
+                "given-name": "Roman",
+                "surname": "Obermaisser",
+                "document-count": "323",
+                "cited-by-count": "1510",
+                "citation-count": "2172",
+                "h-index": "21",
+                "current-affiliation": "Universit\u00e4t Siegen, Siegen, Germany",
+                "subject-area": {
+                    "Computer Science (all)": "89",
+                    "Engineering (all)": "86"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57202612016",
+                "given-name": "Deepak Hanike",
+                "surname": "Basavegowda",
+                "document-count": "9",
+                "cited-by-count": "52",
+                "citation-count": "58",
+                "h-index": "4",
+                "current-affiliation": "Technische Universit\u00e4t Berlin, Potsdam, Germany",
+                "subject-area": {
+                    "Computer Science (all)": "2",
+                    "Environmental Science (all)": "2"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57191925034",
+                "given-name": "Ahlam",
+                "surname": "Mallak",
+                "document-count": "8",
+                "cited-by-count": "75",
+                "citation-count": "78",
+                "h-index": "5",
+                "current-affiliation": "Department of Electrical Engineering and Computer Science, Siegen, Germany",
+                "subject-area": {
+                    "Computer Science (all)": "3",
+                    "Mathematics (all)": "2"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57195513704",
+                "given-name": "Christian",
+                "surname": "Weber",
+                "document-count": "52",
+                "cited-by-count": "227",
+                "citation-count": "265",
+                "h-index": "9",
+                "current-affiliation": "Institute of Knowledge Based Systems and Knowledge Management, Siegen, Germany",
+                "subject-area": {
+                    "Computer Science (all)": "19",
+                    "Engineering (all)": "14"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7005649187",
+                "given-name": "Madjid",
+                "surname": "Fathi",
+                "document-count": "192",
+                "cited-by-count": "1053",
+                "citation-count": "1235",
+                "h-index": "17",
+                "current-affiliation": "Universit\u00e4t Siegen, Siegen, Germany",
+                "subject-area": {
+                    "Engineering (all)": "53",
+                    "Computer Science (all)": "53"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/ICCCNT61001.2024.10724490",
+        "citation-count": "0",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57205019523",
+                "given-name": "Md Sanzidul",
+                "surname": "Islam",
+                "document-count": "75",
+                "cited-by-count": "1018",
+                "citation-count": "1096",
+                "h-index": "16",
+                "current-affiliation": "Daffodil International University, Dhaka, Bangladesh",
+                "subject-area": {
+                    "Computer Science (all)": "22"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58557710800",
+                "given-name": "Mubasshir",
+                "surname": "Ahmed",
+                "document-count": "3",
+                "cited-by-count": "2",
+                "citation-count": "2",
+                "h-index": "1",
+                "current-affiliation": "Department of Electrical & Computer Engineering, Dhaka, Bangladesh",
+                "subject-area": {
+                    "Decision Sciences (all)": "2",
+                    "Medicine (all)": "2",
+                    "Computer Science (all)": "2"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/59012286800",
+                "given-name": "Niaz Ashraf",
+                "surname": "Khan",
+                "document-count": "17",
+                "cited-by-count": "20",
+                "citation-count": "20",
+                "h-index": "2",
+                "current-affiliation": "Department of Computer Science and Engineering, Dhaka, Bangladesh",
+                "subject-area": {
+                    "Computer Science (all)": "7"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/ICSSAS57918.2023.10331800",
+        "citation-count": "4",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57288855000",
+                "given-name": "Ch Venkateswara",
+                "surname": "Rao",
+                "document-count": "5",
+                "cited-by-count": "7",
+                "citation-count": "7",
+                "h-index": "2",
+                "current-affiliation": "Department of Electrical Engineering, Gunupur, India",
+                "subject-area": {
+                    "Computer Science (all)": "3",
+                    "Engineering (all)": "3",
+                    "Energy (all)": "3"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56084555500",
+                "given-name": "A. N.",
+                "surname": "Swaminathen",
+                "document-count": "16",
+                "cited-by-count": "65",
+                "citation-count": "66",
+                "h-index": "5",
+                "current-affiliation": "Department of Civil Engineering, Kalady, India",
+                "subject-area": {
+                    "Environmental Science (all)": "3",
+                    "Engineering (all)": "3",
+                    "Decision Sciences (all)": "3"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57207730767",
+                "given-name": "N.",
+                "surname": "Saikumari",
+                "document-count": "13",
+                "cited-by-count": "110",
+                "citation-count": "117",
+                "h-index": "4",
+                "current-affiliation": "RMK College of Engineering and Technology, Thiruvallur, India",
+                "subject-area": {
+                    "Chemical Engineering (all)": "4",
+                    "Materials Science (all)": "4",
+                    "Computer Science (all)": "3"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57209230567",
+                "given-name": "Manasi",
+                "surname": "Vyankatesh Ghamande",
+                "document-count": "22",
+                "cited-by-count": "19",
+                "citation-count": "20",
+                "h-index": "3",
+                "current-affiliation": "Department of Engineering and Applied Sciences, Pune, India",
+                "subject-area": {
+                    "Computer Science (all)": "10",
+                    "Medicine (all)": "9"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56084807600",
+                "given-name": "Ajay D.",
+                "surname": "Dahegaonkar",
+                "document-count": "1",
+                "cited-by-count": "4",
+                "citation-count": "4",
+                "h-index": "1",
+                "current-affiliation": "Department of Physics, Bhadrawati, India",
+                "subject-area": {
+                    "Computer Science (all)": "1",
+                    "Decision Sciences (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57219946433",
+                "given-name": "Keerat Kumar",
+                "surname": "Gupta",
+                "document-count": "17",
+                "cited-by-count": "132",
+                "citation-count": "133",
+                "h-index": "5",
+                "current-affiliation": "Graphic Era Deemed to be University, Dehradun, India",
+                "subject-area": {
+                    "Computer Science (all)": "6"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.23919/ACC45564.2020.9147772",
+        "citation-count": "10",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/55843145600",
+                "given-name": "Chase P.",
+                "surname": "Dowling",
+                "document-count": "18",
+                "cited-by-count": "101",
+                "citation-count": "112",
+                "h-index": "7",
+                "current-affiliation": "Physical and Computational Sciences Directorate, Richland, United States",
+                "subject-area": {
+                    "Computer Science (all)": "5",
+                    "Engineering (all)": "3"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56100683300",
+                "given-name": "Baosen",
+                "surname": "Zhang",
+                "document-count": "114",
+                "cited-by-count": "3824",
+                "citation-count": "4345",
+                "h-index": "35",
+                "current-affiliation": "University of Washington, Seattle, United States",
+                "subject-area": {
+                    "Engineering (all)": "22",
+                    "Energy (all)": "52"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/ICoICI62503.2024.10696849",
+        "citation-count": "8",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58541275400",
+                "given-name": "Chitra Sabapathy",
+                "surname": "Ranganathan",
+                "document-count": "63",
+                "cited-by-count": "234",
+                "citation-count": "406",
+                "h-index": "14",
+                "current-affiliation": "Mphasis Corporation, Chandler, United States",
+                "subject-area": {
+                    "Computer Science (all)": "39"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58541165000",
+                "given-name": "Rajeshkumar",
+                "surname": "Sampathrajan",
+                "document-count": "11",
+                "cited-by-count": "85",
+                "citation-count": "89",
+                "h-index": "6",
+                "current-affiliation": "Cloud Architect, New York, United States",
+                "subject-area": {
+                    "Computer Science (all)": "6",
+                    "Engineering (all)": "6"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57214367452",
+                "given-name": "M.",
+                "surname": "Venkatesh",
+                "document-count": "5",
+                "cited-by-count": "9",
+                "citation-count": "9",
+                "h-index": "1",
+                "current-affiliation": "Madanapalle Institute of Technology & Science, Unknown, Unknown",
+                "subject-area": {
+                    "Computer Science (all)": "2"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57220117710",
+                "given-name": "Nilamadhab",
+                "surname": "Mishra",
+                "document-count": "110",
+                "cited-by-count": "450",
+                "citation-count": "531",
+                "h-index": "11",
+                "current-affiliation": "VIT Bhopal University, Sehore, India",
+                "subject-area": {
+                    "Computer Science (all)": "43"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/17345637500",
+                "given-name": "E. N.",
+                "surname": "Ganesh",
+                "document-count": "79",
+                "cited-by-count": "464",
+                "citation-count": "502",
+                "h-index": "11",
+                "current-affiliation": "Vels Institute of Science, Technology & Advanced Studies, Chennai, India",
+                "subject-area": {
+                    "Computer Science (all)": "20",
+                    "Engineering (all)": "19"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/59417666600",
+                "given-name": "Subbiah",
+                "surname": "Murugan",
+                "document-count": "127",
+                "cited-by-count": "707",
+                "citation-count": "2822",
+                "h-index": "41",
+                "current-affiliation": "Saveetha School of Engineering, Chennai, India",
+                "subject-area": {
+                    "Computer Science (all)": "73"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/COASE.2016.7743463",
+        "citation-count": "5",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/55983610100",
+                "given-name": "Zhijing",
+                "surname": "Cheng",
+                "document-count": "13",
+                "cited-by-count": "313",
+                "citation-count": "328",
+                "h-index": "7",
+                "current-affiliation": "Department of Automation, Beijing, China",
+                "subject-area": {
+                    "Engineering (all)": "3"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7402764121",
+                "given-name": "Qianchuan",
+                "surname": "Zhao",
+                "document-count": "245",
+                "cited-by-count": "3461",
+                "citation-count": "3960",
+                "h-index": "32",
+                "current-affiliation": "Center for Intelligent and Networked Systems, Beijing, China",
+                "subject-area": {
+                    "Engineering (all)": "89",
+                    "Computer Science (all)": "50"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/55740473800",
+                "given-name": "Fulin",
+                "surname": "Wang",
+                "document-count": "60",
+                "cited-by-count": "979",
+                "citation-count": "1107",
+                "h-index": "15",
+                "current-affiliation": "Building Energy Research Center, Beijing, China",
+                "subject-area": {
+                    "Engineering (all)": "15"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56035073900",
+                "given-name": "Zheliang",
+                "surname": "Chen",
+                "document-count": "12",
+                "cited-by-count": "175",
+                "citation-count": "187",
+                "h-index": "6",
+                "current-affiliation": "ARTS Group Co., Ltd., Suzhou, China",
+                "subject-area": {
+                    "Engineering (all)": "4"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/36065463100",
+                "given-name": "Yi",
+                "surname": "Jiang",
+                "document-count": "299",
+                "cited-by-count": "7864",
+                "citation-count": "10994",
+                "h-index": "61",
+                "current-affiliation": "Building Energy Research Center, Beijing, China",
+                "subject-area": {
+                    "Engineering (all)": "83",
+                    "Energy (all)": "89"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57192207964",
+                "given-name": "Yun",
+                "surname": "Li",
+                "document-count": "2",
+                "cited-by-count": "87",
+                "citation-count": "87",
+                "h-index": "2",
+                "current-affiliation": "United Technologies Research Center (China) Ltd., Shanghai, China",
+                "subject-area": {
+                    "Engineering (all)": "1"
+                },
+                "affil-type": "non-academic research"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/ICITBS.2016.41",
+        "citation-count": "0",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/59157829600",
+                "given-name": "Liu",
+                "surname": "Jianwei",
+                "document-count": "49",
+                "cited-by-count": "233",
+                "citation-count": "288",
+                "h-index": "9",
+                "current-affiliation": "School of Cyber Science and Technology, Beijing, China",
+                "subject-area": {
+                    "Computer Science (all)": "14",
+                    "Mathematics (all)": "14"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/CoASE.2014.6899467",
+        "citation-count": "7",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/37075132700",
+                "given-name": "Yinghsun",
+                "surname": "Lai",
+                "document-count": "57",
+                "cited-by-count": "771",
+                "citation-count": "800",
+                "h-index": "17",
+                "current-affiliation": "Department of Computer Science and Information Engineering, Taitung, Taiwan",
+                "subject-area": {
+                    "Engineering (all)": "18",
+                    "Computer Science (all)": "13"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56789636900",
+                "given-name": "I. Ju",
+                "surname": "Tsai",
+                "document-count": "1",
+                "cited-by-count": "7",
+                "citation-count": "7",
+                "h-index": "1",
+                "current-affiliation": "Institute for Information Industry Taiwan, Taipei, Taiwan",
+                "subject-area": {
+                    "Engineering (all)": "1"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/59590602100",
+                "given-name": "Chien Yi",
+                "surname": "Chiu",
+                "document-count": "1",
+                "cited-by-count": "7",
+                "citation-count": "7",
+                "h-index": "1",
+                "current-affiliation": "Department of Computer Science and Information Engineering, Min-Hsiung, Taiwan",
+                "subject-area": {
+                    "Engineering (all)": "1"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58925003900",
+                "given-name": "Chinfeng",
+                "surname": "Lai",
+                "document-count": "257",
+                "cited-by-count": "6365",
+                "citation-count": "6729",
+                "h-index": "37",
+                "current-affiliation": "Department of Engineering Science, Tainan, Taiwan",
+                "subject-area": {
+                    "Computer Science (all)": "57",
+                    "Engineering (all)": "58"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/IINTEC48298.2019.9112110",
+        "citation-count": "1",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57214797116",
+                "given-name": "Sondes",
+                "surname": "Gharsellaoui",
+                "document-count": "4",
+                "cited-by-count": "47",
+                "citation-count": "55",
+                "h-index": "3",
+                "current-affiliation": "Department of Electrical Engineering, Tunis, Tunisia",
+                "subject-area": {
+                    "Engineering (all)": "2",
+                    "Computer Science (all)": "1",
+                    "Energy (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7004271836",
+                "given-name": "Majdi M.",
+                "surname": "Mansouri",
+                "document-count": "222",
+                "cited-by-count": "2103",
+                "citation-count": "3255",
+                "h-index": "32",
+                "current-affiliation": "Sultan Qaboos University, Muscat, Oman",
+                "subject-area": {
+                    "Engineering (all)": "55",
+                    "Computer Science (all)": "48"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/24081480400",
+                "given-name": "Shady S.",
+                "surname": "Refaat",
+                "document-count": "175",
+                "cited-by-count": "3040",
+                "citation-count": "3545",
+                "h-index": "30",
+                "current-affiliation": "School of Engineering and Computer Science, Hatfield, United Kingdom",
+                "subject-area": {
+                    "Engineering (all)": "122",
+                    "Energy (all)": "77",
+                    "Mathematics (all)": "53"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/24466485200",
+                "given-name": "Haitham A.",
+                "surname": "Abu-Rub",
+                "document-count": "617",
+                "cited-by-count": "16572",
+                "citation-count": "23250",
+                "h-index": "72",
+                "current-affiliation": "Hamad Bin Khalifa University, College of Science and Engineering, Doha, Qatar",
+                "subject-area": {
+                    "Engineering (all)": "194",
+                    "Energy (all)": "188"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/15069282400",
+                "given-name": "Hassani",
+                "surname": "Messaoud",
+                "document-count": "256",
+                "cited-by-count": "1237",
+                "citation-count": "1713",
+                "h-index": "20",
+                "current-affiliation": "Ecole Nationale d'Ingenieurs de Monastir, Monastir, Tunisia",
+                "subject-area": {
+                    "Engineering (all)": "67",
+                    "Computer Science (all)": "79"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/ISIE.2014.6865041",
+        "citation-count": "15",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/24403198800",
+                "given-name": "Gerhard",
+                "surname": "Zucker",
+                "document-count": "78",
+                "cited-by-count": "646",
+                "citation-count": "776",
+                "h-index": "15",
+                "current-affiliation": "Sustainable Thermal Energy Systems, Vienna, Austria",
+                "subject-area": {
+                    "Engineering (all)": "22",
+                    "Computer Science (all)": "18"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/36573844300",
+                "given-name": "Jasmine A.",
+                "surname": "Malinao",
+                "document-count": "20",
+                "cited-by-count": "41",
+                "citation-count": "55",
+                "h-index": "4",
+                "current-affiliation": "Division of Natural Sciences and Mathematics, Miagao, Philippines",
+                "subject-area": {
+                    "Engineering (all)": "7",
+                    "Computer Science (all)": "6"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57215209104",
+                "given-name": "Usman",
+                "surname": "Habib",
+                "document-count": "49",
+                "cited-by-count": "747",
+                "citation-count": "779",
+                "h-index": "14",
+                "current-affiliation": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Topi, Pakistan",
+                "subject-area": {
+                    "Engineering (all)": "17",
+                    "Computer Science (all)": "13"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/54420445800",
+                "given-name": "Thomas",
+                "surname": "Leber",
+                "document-count": "15",
+                "cited-by-count": "71",
+                "citation-count": "76",
+                "h-index": "5",
+                "current-affiliation": "Technische Universit\u00e4t Wien, Vienna, Austria",
+                "subject-area": {
+                    "Engineering (all)": "4",
+                    "Computer Science (all)": "5"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56087882700",
+                "given-name": "Anita",
+                "surname": "Preisler",
+                "document-count": "6",
+                "cited-by-count": "66",
+                "citation-count": "67",
+                "h-index": "4",
+                "current-affiliation": "Teamgmi Ingenieurb\u00fcro GmbH, Vienna, Austria",
+                "subject-area": {
+                    "Energy (all)": "4",
+                    "Engineering (all)": "1"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/24828972100",
+                "given-name": "Florian",
+                "surname": "Judex",
+                "document-count": "28",
+                "cited-by-count": "228",
+                "citation-count": "243",
+                "h-index": "10",
+                "current-affiliation": "Department of Energetics, Vienna, Austria",
+                "subject-area": {
+                    "Engineering (all)": "5"
+                },
+                "affil-type": "non-academic research"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/ICPES47639.2019.9105507",
+        "citation-count": "16",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57219310454",
+                "given-name": "Patel",
+                "surname": "Akshay",
+                "document-count": "3",
+                "cited-by-count": "44",
+                "citation-count": "53",
+                "h-index": "3",
+                "current-affiliation": "Department of Electrical Engineering, Mumbai, India",
+                "subject-area": {
+                    "Mathematics (all)": "6",
+                    "Engineering (all)": "2"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57194021001",
+                "given-name": "V.",
+                "surname": "Kamuni",
+                "document-count": "8",
+                "cited-by-count": "156",
+                "citation-count": "175",
+                "h-index": "6",
+                "current-affiliation": "Veermata Jijabai Technological Institute, Mumbai, India",
+                "subject-area": {
+                    "Mathematics (all)": "7",
+                    "Energy (all)": "4"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57222485514",
+                "given-name": "Mohd Adil Anwar",
+                "surname": "Sheikh",
+                "document-count": "46",
+                "cited-by-count": "277",
+                "citation-count": "366",
+                "h-index": "10",
+                "current-affiliation": "Department of Electrical Engineering, Mumbai, India",
+                "subject-area": {
+                    "Mathematics (all)": "31",
+                    "Engineering (all)": "28",
+                    "Energy (all)": "27"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/35204208400",
+                "given-name": "Sushama R.",
+                "surname": "Wagh",
+                "document-count": "104",
+                "cited-by-count": "917",
+                "citation-count": "1097",
+                "h-index": "17",
+                "current-affiliation": "Department of Electrical Engineering, Mumbai, India",
+                "subject-area": {
+                    "Engineering (all)": "32",
+                    "Mathematics (all)": "39"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7404364301",
+                "given-name": "N. M.",
+                "surname": "Singh",
+                "document-count": "126",
+                "cited-by-count": "1187",
+                "citation-count": "1284",
+                "h-index": "17",
+                "current-affiliation": "Veermata Jijabai Technological Institute, Mumbai, India",
+                "subject-area": {
+                    "Engineering (all)": "46",
+                    "Mathematics (all)": "30"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1145/3486611.3491122",
+        "citation-count": "9",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57370161700",
+                "given-name": "Devanshu",
+                "surname": "Kumar",
+                "document-count": "1",
+                "cited-by-count": "9",
+                "citation-count": "9",
+                "h-index": "1",
+                "current-affiliation": "University of California, Bethlehem, United States",
+                "subject-area": {
+                    "Computer Science (all)": "1",
+                    "Engineering (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57215341509",
+                "given-name": "Xianzhong",
+                "surname": "Ding",
+                "document-count": "22",
+                "cited-by-count": "275",
+                "citation-count": "357",
+                "h-index": "9",
+                "current-affiliation": "UC Merced, Merced, United States",
+                "subject-area": {
+                    "Computer Science (all)": "8",
+                    "Engineering (all)": "8"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/36466419000",
+                "given-name": "Wan",
+                "surname": "Du",
+                "document-count": "74",
+                "cited-by-count": "1859",
+                "citation-count": "2235",
+                "h-index": "24",
+                "current-affiliation": "UC Merced, Merced, United States",
+                "subject-area": {
+                    "Computer Science (all)": "23",
+                    "Engineering (all)": "37"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/6602216671",
+                "given-name": "Alberto E.",
+                "surname": "Cerpa",
+                "document-count": "63",
+                "cited-by-count": "3950",
+                "citation-count": "4759",
+                "h-index": "27",
+                "current-affiliation": "UC Merced, Merced, United States",
+                "subject-area": {
+                    "Computer Science (all)": "45",
+                    "Engineering (all)": "16"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1145/3486611.3486644",
+        "citation-count": "14",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57216946784",
+                "given-name": "Shichao",
+                "surname": "Xu",
+                "document-count": "16",
+                "cited-by-count": "518",
+                "citation-count": "573",
+                "h-index": "9",
+                "current-affiliation": "Northwestern University, Evanston, United States",
+                "subject-area": {
+                    "Engineering (all)": "5",
+                    "Energy (all)": "5"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57111137200",
+                "given-name": "Yangyang",
+                "surname": "Fu",
+                "document-count": "59",
+                "cited-by-count": "1228",
+                "citation-count": "1352",
+                "h-index": "20",
+                "current-affiliation": "College of Engineering, College Station, United States",
+                "subject-area": {
+                    "Engineering (all)": "14"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57219795980",
+                "given-name": "Yixuan",
+                "surname": "Wang",
+                "document-count": "26",
+                "cited-by-count": "174",
+                "citation-count": "279",
+                "h-index": "11",
+                "current-affiliation": "Northwestern University, Evanston, United States",
+                "subject-area": {
+                    "Computer Science (all)": "9",
+                    "Engineering (all)": "8"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/15045472400",
+                "given-name": "Zheng",
+                "surname": "O\u2019Neill",
+                "document-count": "175",
+                "cited-by-count": "4282",
+                "citation-count": "5171",
+                "h-index": "38",
+                "current-affiliation": "Texas A&M University, College Station, United States",
+                "subject-area": {
+                    "Engineering (all)": "40"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56542196200",
+                "given-name": "Qi",
+                "surname": "Zhu",
+                "document-count": "190",
+                "cited-by-count": "3022",
+                "citation-count": "4019",
+                "h-index": "32",
+                "current-affiliation": "Northwestern University, Evanston, United States",
+                "subject-area": {
+                    "Computer Science (all)": "66",
+                    "Engineering (all)": "61"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1145/2674061.2674067",
+        "citation-count": "64",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/14071642900",
+                "given-name": "Balakrishnan Murali",
+                "surname": "Narayanaswamy",
+                "document-count": "51",
+                "cited-by-count": "605",
+                "citation-count": "617",
+                "h-index": "11",
+                "current-affiliation": "Amazon.com, Inc., Seattle, United States",
+                "subject-area": {
+                    "Computer Science (all)": "11"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58224756000",
+                "given-name": "Bharathan",
+                "surname": "Balaji",
+                "document-count": "55",
+                "cited-by-count": "1920",
+                "citation-count": "2250",
+                "h-index": "19",
+                "current-affiliation": "Amazon.com, Inc., Seattle, United States",
+                "subject-area": {
+                    "Computer Science (all)": "32",
+                    "Engineering (all)": "20"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57211565489",
+                "given-name": "Rajesh K.",
+                "surname": "Gupta",
+                "document-count": "350",
+                "cited-by-count": "9334",
+                "citation-count": "11368",
+                "h-index": "53",
+                "current-affiliation": "University of California, San Diego, La Jolla, United States",
+                "subject-area": {
+                    "Computer Science (all)": "84",
+                    "Engineering (all)": "121"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57206496240",
+                "given-name": "Yuvraj",
+                "surname": "Agarwal",
+                "document-count": "100",
+                "cited-by-count": "4407",
+                "citation-count": "5398",
+                "h-index": "37",
+                "current-affiliation": "Carnegie Mellon University, Pittsburgh, United States",
+                "subject-area": {
+                    "Computer Science (all)": "56",
+                    "Engineering (all)": "26"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1145/3587716.3587749",
+        "citation-count": "0",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57202050448",
+                "given-name": "Mariam",
+                "surname": "Elnour",
+                "document-count": "19",
+                "cited-by-count": "769",
+                "citation-count": "888",
+                "h-index": "12",
+                "current-affiliation": "College of Engineering, College Station, United States",
+                "subject-area": {
+                    "Energy (all)": "4",
+                    "Computer Science (all)": "4",
+                    "Mathematics (all)": "4"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/25651505100",
+                "given-name": "F.",
+                "surname": "Fadli",
+                "document-count": "49",
+                "cited-by-count": "1004",
+                "citation-count": "1182",
+                "h-index": "17",
+                "current-affiliation": "Qatar University, Doha, Qatar",
+                "subject-area": {
+                    "Energy (all)": "12",
+                    "Engineering (all)": "11"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/24172813000",
+                "given-name": "Nader",
+                "surname": "Meskin",
+                "document-count": "311",
+                "cited-by-count": "5356",
+                "citation-count": "7020",
+                "h-index": "41",
+                "current-affiliation": "Qatar University, Doha, Qatar",
+                "subject-area": {
+                    "Engineering (all)": "114",
+                    "Computer Science (all)": "80"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/36617625400",
+                "given-name": "Ioan",
+                "surname": "Petri",
+                "document-count": "106",
+                "cited-by-count": "2109",
+                "citation-count": "2408",
+                "h-index": "24",
+                "current-affiliation": "Cardiff University, Cardiff, United Kingdom",
+                "subject-area": {
+                    "Computer Science (all)": "23",
+                    "Decision Sciences (all)": "21"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/6701829347",
+                "given-name": "Yacine Y.",
+                "surname": "Rezgui",
+                "document-count": "325",
+                "cited-by-count": "9926",
+                "citation-count": "11545",
+                "h-index": "58",
+                "current-affiliation": "Cardiff University, Cardiff, United Kingdom",
+                "subject-area": {
+                    "Engineering (all)": "71",
+                    "Computer Science (all)": "79"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1145/3508259.3508281",
+        "citation-count": "7",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57219216200",
+                "given-name": "Rituka",
+                "surname": "Jaiswal",
+                "document-count": "4",
+                "cited-by-count": "40",
+                "citation-count": "45",
+                "h-index": "3",
+                "current-affiliation": "Universitetet i Stavanger, Stavanger, Norway",
+                "subject-area": {
+                    "Computer Science (all)": "2"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57561656100",
+                "given-name": "Fadwa",
+                "surname": "Maatug",
+                "document-count": "1",
+                "cited-by-count": "7",
+                "citation-count": "7",
+                "h-index": "1",
+                "current-affiliation": "Universitetet i Stavanger, Stavanger, Norway",
+                "subject-area": {
+                    "Computer Science (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/15761952700",
+                "given-name": "Reggie Romeula",
+                "surname": "Davidrajuh",
+                "document-count": "133",
+                "cited-by-count": "517",
+                "citation-count": "698",
+                "h-index": "15",
+                "current-affiliation": "Department of Electrical Engineering and Computer Science, Stavanger, Norway",
+                "subject-area": {
+                    "Computer Science (all)": "34",
+                    "Mathematics (all)": "30",
+                    "Engineering (all)": "19"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7005804907",
+                "given-name": "Chunming",
+                "surname": "Rong",
+                "document-count": "318",
+                "cited-by-count": "4516",
+                "citation-count": "4738",
+                "h-index": "35",
+                "current-affiliation": "Department of Electrical Engineering and Computer Science, Stavanger, Norway",
+                "subject-area": {
+                    "Computer Science (all)": "101",
+                    "Mathematics (all)": "70"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1016/j.ifacol.2024.08.346",
+        "citation-count": "0",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57218123133",
+                "given-name": "Hesam",
+                "surname": "Hassanpour",
+                "document-count": "12",
+                "cited-by-count": "139",
+                "citation-count": "160",
+                "h-index": "8",
+                "current-affiliation": "McMaster University, Faculty of Engineering, Hamilton, Canada",
+                "subject-area": {
+                    "Chemical Engineering (all)": "9",
+                    "Computer Science (all)": "4",
+                    "Environmental Science (all)": "2"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58085371000",
+                "given-name": "Amir H.",
+                "surname": "Hamedi",
+                "document-count": "2",
+                "cited-by-count": "8",
+                "citation-count": "8",
+                "h-index": "1",
+                "current-affiliation": "McMaster University, Faculty of Engineering, Hamilton, Canada",
+                "subject-area": {
+                    "Engineering (all)": "1",
+                    "Chemical Engineering (all)": "1",
+                    "Computer Science (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/6602958963",
+                "given-name": "Prashant",
+                "surname": "Mhaskar",
+                "document-count": "253",
+                "cited-by-count": "3312",
+                "citation-count": "5265",
+                "h-index": "38",
+                "current-affiliation": "McMaster University, Faculty of Engineering, Hamilton, Canada",
+                "subject-area": {
+                    "Chemical Engineering (all)": "110",
+                    "Engineering (all)": "62"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7202393430",
+                "given-name": "John M.",
+                "surname": "House",
+                "document-count": "69",
+                "cited-by-count": "1457",
+                "citation-count": "1879",
+                "h-index": "20",
+                "current-affiliation": "House Consulting Services, Montreal, Canada",
+                "subject-area": {
+                    "Chemical Engineering (all)": "31",
+                    "Engineering (all)": "17"
+                },
+                "affil-type": [
+                    "University",
+                    "Industry"
+                ]
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/6603563841",
+                "given-name": "Timothy I.",
+                "surname": "Salsbury",
+                "document-count": "75",
+                "cited-by-count": "1552",
+                "citation-count": "1795",
+                "h-index": "21",
+                "current-affiliation": "Pacific Northwest National Laboratory, Richland, United States",
+                "subject-area": {
+                    "Engineering (all)": "18"
+                },
+                "affil-type": [
+                    "University",
+                    "Industry"
+                ]
+            }
+        ]
+    },
+    {
+        "doi": "10.1016/j.ifacol.2024.07.253",
+        "citation-count": "0",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57367976700",
+                "given-name": "Qiao",
+                "surname": "Deng",
+                "document-count": "15",
+                "cited-by-count": "105",
+                "citation-count": "119",
+                "h-index": "5",
+                "current-affiliation": "School of Automation, Changsha, China",
+                "subject-area": {
+                    "Engineering (all)": "5"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56643411600",
+                "given-name": "Zhiwen",
+                "surname": "Chen",
+                "document-count": "186",
+                "cited-by-count": "2657",
+                "citation-count": "3596",
+                "h-index": "30",
+                "current-affiliation": "School of Automation, Changsha, China",
+                "subject-area": {
+                    "Engineering (all)": "86",
+                    "Computer Science (all)": "54"
+                },
+                "affil-type": [
+                    "University",
+                    "non-academic research"
+                ]
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/59625147200",
+                "given-name": "Wanting",
+                "surname": "Zhu",
+                "document-count": "3",
+                "cited-by-count": "7",
+                "citation-count": "7",
+                "h-index": "2",
+                "current-affiliation": "School of Automation, Changsha, China",
+                "subject-area": {
+                    "Engineering (all)": "1",
+                    "Energy (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/59139711900",
+                "given-name": "Zefan",
+                "surname": "Li",
+                "document-count": "5",
+                "cited-by-count": "7",
+                "citation-count": "7",
+                "h-index": "2",
+                "current-affiliation": "School of Automation, Changsha, China",
+                "subject-area": {
+                    "Engineering (all)": "3",
+                    "Mathematics (all)": "2"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/59139535000",
+                "given-name": "Yifeng",
+                "surname": "Yuan",
+                "document-count": "3",
+                "cited-by-count": "7",
+                "citation-count": "7",
+                "h-index": "2",
+                "current-affiliation": "Ltd., Shenzhen, China",
+                "subject-area": {
+                    "Engineering (all)": "1",
+                    "Energy (all)": "1"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/55671769800",
+                "given-name": "Xinhong",
+                "surname": "Li",
+                "document-count": "8",
+                "cited-by-count": "88",
+                "citation-count": "95",
+                "h-index": "6",
+                "current-affiliation": "Ltd., Shenzhen, China",
+                "subject-area": {
+                    "Engineering (all)": "3"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56473734600",
+                "given-name": "Zhaohui",
+                "surname": "Jiang",
+                "document-count": "195",
+                "cited-by-count": "1293",
+                "citation-count": "1855",
+                "h-index": "24",
+                "current-affiliation": "School of Automation, Changsha, China",
+                "subject-area": {
+                    "Engineering (all)": "79",
+                    "Physics and Astronomy (all)": "45"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/35346008700",
+                "given-name": "Shen",
+                "surname": "Yin",
+                "document-count": "327",
+                "cited-by-count": "15862",
+                "citation-count": "22429",
+                "h-index": "79",
+                "current-affiliation": "Norges Teknisk-Naturvitenskapelige Universitet, Trondheim, Norway",
+                "subject-area": {
+                    "Engineering (all)": "182",
+                    "Computer Science (all)": "104"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7407741768",
+                "given-name": "C.",
+                "surname": "Yang",
+                "document-count": "1123",
+                "cited-by-count": "13211",
+                "citation-count": "19843",
+                "h-index": "64",
+                "current-affiliation": "Department of Strategic and Advanced Interdisciplinary Research, Shenzhen, China",
+                "subject-area": {
+                    "Engineering (all)": "360",
+                    "Computer Science (all)": "319"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7004829136",
+                "given-name": "Weihua",
+                "surname": "Gui",
+                "document-count": "1523",
+                "cited-by-count": "14816",
+                "citation-count": "22381",
+                "h-index": "64",
+                "current-affiliation": "Central South University, Shenzhen, China",
+                "subject-area": {
+                    "Engineering (all)": "534",
+                    "Computer Science (all)": "417"
+                },
+                "affil-type": [
+                    "University",
+                    "non-academic research"
+                ]
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/CoDIT62066.2024.10708526",
+        "citation-count": "0",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56747995900",
+                "given-name": "Ravi Kiran",
+                "surname": "Badathala",
+                "document-count": "2",
+                "cited-by-count": "8",
+                "citation-count": "8",
+                "h-index": "1",
+                "current-affiliation": "Carrier Technologies India Ltd (CTIL), Hyderabad, India",
+                "subject-area": {
+                    "Decision Sciences (all)": "1",
+                    "Computer Science (all)": "1"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/59397428400",
+                "given-name": "Venkateswara Rao",
+                "surname": "Vajapeyayajula",
+                "document-count": "1",
+                "cited-by-count": "0",
+                "citation-count": "0",
+                "h-index": "0",
+                "current-affiliation": "Carrier Technologies India Ltd (CTIL), Hyderabad, India",
+                "subject-area": {
+                    "Computer Science (all)": "1",
+                    "Decision Sciences (all)": "1"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56655178500",
+                "given-name": "Ramesh Kumar",
+                "surname": "Junnuri",
+                "document-count": "4",
+                "cited-by-count": "13",
+                "citation-count": "13",
+                "h-index": "3",
+                "current-affiliation": "Carrier Technologies India Ltd (CTIL), Hyderabad, India",
+                "subject-area": {
+                    "Mathematics (all)": "2",
+                    "Computer Science (all)": "2",
+                    "Engineering (all)": "2"
+                },
+                "affil-type": "Industry"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/IJCNN60899.2024.10649959",
+        "citation-count": "1",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58084068900",
+                "given-name": "Hong",
+                "surname": "Wang",
+                "document-count": "2",
+                "cited-by-count": "11",
+                "citation-count": "11",
+                "h-index": "1",
+                "current-affiliation": "School of Management, Xi'an, China",
+                "subject-area": {
+                    "Engineering (all)": "1",
+                    "Computer Science (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/8296336500",
+                "given-name": "Zijun",
+                "surname": "Zhang",
+                "document-count": "133",
+                "cited-by-count": "4947",
+                "citation-count": "5808",
+                "h-index": "42",
+                "current-affiliation": "City University of Hong Kong, Hong Kong, Hong Kong",
+                "subject-area": {
+                    "Engineering (all)": "54",
+                    "Energy (all)": "31"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/I2MTC60896.2024.10560803",
+        "citation-count": "2",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/59208997700",
+                "given-name": "Anmol",
+                "surname": "Agrawal",
+                "document-count": "4",
+                "cited-by-count": "2",
+                "citation-count": "2",
+                "h-index": "1",
+                "current-affiliation": "Dr. S. P. Mukherjee International Institute of Information Technology - Naya Raipur, Naya Raipur, India",
+                "subject-area": {
+                    "Decision Sciences (all)": "3",
+                    "Computer Science (all)": "2",
+                    "Engineering (all)": "2"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57651589100",
+                "given-name": "Aparna",
+                "surname": "Sinha",
+                "document-count": "25",
+                "cited-by-count": "80",
+                "citation-count": "87",
+                "h-index": "5",
+                "current-affiliation": "Department of Basic Science and Humanities, Kolkata, India",
+                "subject-area": {
+                    "Physics and Astronomy (all)": "12",
+                    "Engineering (all)": "10",
+                    "Computer Science (all)": "9"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57191917086",
+                "given-name": "Debanjan",
+                "surname": "Das",
+                "document-count": "103",
+                "cited-by-count": "840",
+                "citation-count": "892",
+                "h-index": "16",
+                "current-affiliation": "Indian Institute of Technology Kharagpur, Kharagpur, India",
+                "subject-area": {
+                    "Computer Science (all)": "42",
+                    "Engineering (all)": "36"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/PHM-Hangzhou58797.2023.10482468",
+        "citation-count": "0",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/55239625900",
+                "given-name": "Ying",
+                "surname": "Yan",
+                "document-count": "61",
+                "cited-by-count": "418",
+                "citation-count": "470",
+                "h-index": "12",
+                "current-affiliation": "Nanjing University of Information Science & Technology, Nanjing, China",
+                "subject-area": {
+                    "Engineering (all)": "12",
+                    "Computer Science (all)": "11"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/59009003300",
+                "given-name": "Guanting",
+                "surname": "Liu",
+                "document-count": "4",
+                "cited-by-count": "13",
+                "citation-count": "13",
+                "h-index": "2",
+                "current-affiliation": "Nanjing University of Information Science & Technology, Nanjing, China",
+                "subject-area": {
+                    "Computer Science (all)": "3",
+                    "Engineering (all)": "2"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/35213032400",
+                "given-name": "Jun",
+                "surname": "Cai",
+                "document-count": "125",
+                "cited-by-count": "967",
+                "citation-count": "1344",
+                "h-index": "19",
+                "current-affiliation": "Nanjing University of Information Science & Technology, Nanjing, China",
+                "subject-area": {
+                    "Engineering (all)": "22",
+                    "Energy (all)": "26"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57204856630",
+                "given-name": "Edmond Qi",
+                "surname": "Wu",
+                "document-count": "114",
+                "cited-by-count": "1213",
+                "citation-count": "1542",
+                "h-index": "22",
+                "current-affiliation": "Shanghai Jiao Tong University, Shanghai, China",
+                "subject-area": {
+                    "Engineering (all)": "48",
+                    "Computer Science (all)": "52"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7003447496",
+                "given-name": "Adrian David",
+                "surname": "Cheok",
+                "document-count": "378",
+                "cited-by-count": "5329",
+                "citation-count": "6296",
+                "h-index": "43",
+                "current-affiliation": "University of London, Nanjing, China",
+                "subject-area": {
+                    "Computer Science (all)": "71"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56472162100",
+                "given-name": "Qiming",
+                "surname": "Sun",
+                "document-count": "28",
+                "cited-by-count": "241",
+                "citation-count": "270",
+                "h-index": "10",
+                "current-affiliation": "College of Information Science and Technology, Nanjing, China",
+                "subject-area": {
+                    "Engineering (all)": "8"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57214796220",
+                "given-name": "Ming",
+                "surname": "Li",
+                "document-count": "6",
+                "cited-by-count": "2",
+                "citation-count": "2",
+                "h-index": "1",
+                "current-affiliation": "School of Mechanical and Electronic Engineering, Suzhou, China",
+                "subject-area": {
+                    "Computer Science (all)": "2"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/59008613500",
+                "given-name": "Ying",
+                "surname": "Zhou",
+                "document-count": "1",
+                "cited-by-count": "0",
+                "citation-count": "0",
+                "h-index": "0",
+                "current-affiliation": "Nanjing University of Information Science & Technology, Nanjing, China",
+                "subject-area": {
+                    "Computer Science (all)": "1"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/ICIST59754.2023.10367087",
+        "citation-count": "1",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58833184600",
+                "given-name": "Xuntan",
+                "surname": "Ye",
+                "document-count": "1",
+                "cited-by-count": "1",
+                "citation-count": "1",
+                "h-index": "1",
+                "current-affiliation": "City University of Hong Kong, Hong Kong, Hong Kong",
+                "subject-area": {
+                    "Mathematics (all)": "1",
+                    "Computer Science (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56486169700",
+                "given-name": "Jun",
+                "surname": "Wang",
+                "document-count": "520",
+                "cited-by-count": "15976",
+                "citation-count": "29718",
+                "h-index": "101",
+                "current-affiliation": "City University of Hong Kong, Hong Kong, Hong Kong",
+                "subject-area": {
+                    "Computer Science (all)": "254",
+                    "Engineering (all)": "187"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57224586744",
+                "given-name": "Hongzong",
+                "surname": "Li",
+                "document-count": "20",
+                "cited-by-count": "144",
+                "citation-count": "170",
+                "h-index": "7",
+                "current-affiliation": "Department of Computer Science, Hong Kong, Hong Kong",
+                "subject-area": {
+                    "Computer Science (all)": "12",
+                    "Decision Sciences (all)": "7",
+                    "Mathematics (all)": "7"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.26868/25222708.2023.1730",
+        "citation-count": "0",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58759375100",
+                "given-name": "Yongkang",
+                "surname": "Deng",
+                "document-count": "3",
+                "cited-by-count": "0",
+                "citation-count": "0",
+                "h-index": "0",
+                "current-affiliation": "School of Mechanical and Energy Engineering, Shanghai, China",
+                "subject-area": {
+                    "Engineering (all)": "2",
+                    "Multidisciplinary": "1",
+                    "Environmental Science (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/36641681200",
+                "given-name": "Hua",
+                "surname": "Meng",
+                "document-count": "40",
+                "cited-by-count": "389",
+                "citation-count": "404",
+                "h-index": "10",
+                "current-affiliation": "School of Mechanical and Energy Engineering, Shanghai, China",
+                "subject-area": {
+                    "Energy (all)": "10",
+                    "Engineering (all)": "9"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/23470701900",
+                "given-name": "Yingjun",
+                "surname": "Ruan",
+                "document-count": "99",
+                "cited-by-count": "1857",
+                "citation-count": "1986",
+                "h-index": "22",
+                "current-affiliation": "School of Mechanical and Energy Engineering, Shanghai, China",
+                "subject-area": {
+                    "Engineering (all)": "28",
+                    "Energy (all)": "26"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57204979867",
+                "given-name": "Fanyue",
+                "surname": "Qian",
+                "document-count": "60",
+                "cited-by-count": "845",
+                "citation-count": "894",
+                "h-index": "17",
+                "current-affiliation": "School of Mechanical and Energy Engineering, Shanghai, China",
+                "subject-area": {
+                    "Energy (all)": "24"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57359291200",
+                "given-name": "Di",
+                "surname": "Pei",
+                "document-count": "5",
+                "cited-by-count": "23",
+                "citation-count": "23",
+                "h-index": "2",
+                "current-affiliation": "School of Mechanical and Energy Engineering, Shanghai, China",
+                "subject-area": {
+                    "Engineering (all)": "2",
+                    "Multidisciplinary": "2",
+                    "Chemical Engineering (all)": "2"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.26868/25222708.2023.1240",
+        "citation-count": "0",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/36025082400",
+                "given-name": "Sebastian",
+                "surname": "Dietz",
+                "document-count": "2",
+                "cited-by-count": "39",
+                "citation-count": "39",
+                "h-index": "1",
+                "current-affiliation": "University of Luxembourg, Esch-sur-Alzette, Luxembourg",
+                "subject-area": {
+                    "Mathematics (all)": "2",
+                    "Engineering (all)": "2",
+                    "Computer Science (all)": "2"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/41561938800",
+                "given-name": "Frank",
+                "surname": "Scholzen",
+                "document-count": "34",
+                "cited-by-count": "395",
+                "citation-count": "413",
+                "h-index": "10",
+                "current-affiliation": "Technology and Medicine, Esch-sur-Alzette, Luxembourg",
+                "subject-area": {
+                    "Engineering (all)": "13",
+                    "Environmental Science (all)": "9"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57191709570",
+                "given-name": "Nicolas",
+                "surname": "R\u00e9hault",
+                "document-count": "10",
+                "cited-by-count": "93",
+                "citation-count": "96",
+                "h-index": "5",
+                "current-affiliation": "Fraunhofer Institute for Solar Energy Systems ISE, Freiburg im Breisgau, Germany",
+                "subject-area": {
+                    "Physics and Astronomy (all)": "4",
+                    "Engineering (all)": "3",
+                    "Earth and Planetary Sciences (all)": "2"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58759223200",
+                "given-name": "C\u00e9dric",
+                "surname": "Dockendorf",
+                "document-count": "1",
+                "cited-by-count": "0",
+                "citation-count": "0",
+                "h-index": "0",
+                "current-affiliation": "Symvio S.\u00e0.r.l, Strassen, Luxembourg",
+                "subject-area": {
+                    "Engineering (all)": "1",
+                    "Mathematics (all)": "1"
+                },
+                "affil-type": "Industry"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/ITOEC57671.2023.10291546",
+        "citation-count": "1",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58706875400",
+                "given-name": "Ming",
+                "surname": "Zhao",
+                "document-count": "2",
+                "cited-by-count": "1",
+                "citation-count": "1",
+                "h-index": "1",
+                "current-affiliation": "School of Computer and Information Engineering, Harbin, China",
+                "subject-area": {
+                    "Computer Science (all)": "2",
+                    "Engineering (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58706746700",
+                "given-name": "Zhengjun",
+                "surname": "Guo",
+                "document-count": "2",
+                "cited-by-count": "1",
+                "citation-count": "1",
+                "h-index": "1",
+                "current-affiliation": "School of Computer and Information Engineering, Harbin, China",
+                "subject-area": {
+                    "Computer Science (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58748346500",
+                "given-name": "Yang",
+                "surname": "Liu",
+                "document-count": "2",
+                "cited-by-count": "1",
+                "citation-count": "1",
+                "h-index": "1",
+                "current-affiliation": "School of Computer and Information Engineering, Harbin, China",
+                "subject-area": {
+                    "Computer Science (all)": "2",
+                    "Engineering (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/59640822300",
+                "given-name": "Hui",
+                "surname": "Li",
+                "document-count": "2",
+                "cited-by-count": "1",
+                "citation-count": "1",
+                "h-index": "1",
+                "current-affiliation": "School of Computer and Information Engineering, Harbin, China",
+                "subject-area": {
+                    "Computer Science (all)": "2",
+                    "Energy (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57417658200",
+                "given-name": "He",
+                "surname": "Li",
+                "document-count": "10",
+                "cited-by-count": "79",
+                "citation-count": "83",
+                "h-index": "4",
+                "current-affiliation": "State Key Laboratory of Engine and Powertrain System, Weifang, China",
+                "subject-area": {
+                    "Computer Science (all)": "4",
+                    "Engineering (all)": "3"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58706690500",
+                "given-name": "Yun",
+                "surname": "Li",
+                "document-count": "1",
+                "cited-by-count": "1",
+                "citation-count": "1",
+                "h-index": "1",
+                "current-affiliation": "School of Computer and Information Engineering, Harbin, China",
+                "subject-area": {
+                    "Energy (all)": "1",
+                    "Computer Science (all)": "1"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.35490/EC3.2023.213",
+        "citation-count": "1",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58701117900",
+                "given-name": "Farivar",
+                "surname": "Rajabi",
+                "document-count": "3",
+                "cited-by-count": "9",
+                "citation-count": "9",
+                "h-index": "1",
+                "current-affiliation": "Department of Architectural Science, Toronto, Canada",
+                "subject-area": {
+                    "Engineering (all)": "1",
+                    "Computer Science (all)": "2"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/55972044800",
+                "given-name": "Karim",
+                "surname": "El Mokhtari",
+                "document-count": "22",
+                "cited-by-count": "156",
+                "citation-count": "164",
+                "h-index": "5",
+                "current-affiliation": "Universit\u00e9 Abdelmalek Essaadi, Vancouver, Canada",
+                "subject-area": {
+                    "Computer Science (all)": "5"
+                },
+                "affil-type": [
+                    "University",
+                    "Industry"
+                ]
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56978764300",
+                "given-name": "J. J.",
+                "surname": "McArthur",
+                "document-count": "59",
+                "cited-by-count": "952",
+                "citation-count": "1032",
+                "h-index": "19",
+                "current-affiliation": "Toronto Metropolitan University, Toronto, Canada",
+                "subject-area": {
+                    "Engineering (all)": "12"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.26868/25222708.2021.30357",
+        "citation-count": "0",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57207960636",
+                "given-name": "Shohei",
+                "surname": "Miyata",
+                "document-count": "44",
+                "cited-by-count": "575",
+                "citation-count": "686",
+                "h-index": "13",
+                "current-affiliation": "Department of Architecture, Tokyo, Japan",
+                "subject-area": {
+                    "Engineering (all)": "15",
+                    "Energy (all)": "16"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/15831158200",
+                "given-name": "Yasunori",
+                "surname": "Akashi",
+                "document-count": "85",
+                "cited-by-count": "796",
+                "citation-count": "895",
+                "h-index": "17",
+                "current-affiliation": "Department of Architecture, Tokyo, Japan",
+                "subject-area": {
+                    "Engineering (all)": "24"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57207965928",
+                "given-name": "Yasuhiro",
+                "surname": "Kuwahara",
+                "document-count": "11",
+                "cited-by-count": "71",
+                "citation-count": "78",
+                "h-index": "5",
+                "current-affiliation": "MTD Co. Ltd., Tokyo, Japan",
+                "subject-area": {
+                    "Engineering (all)": "6",
+                    "Earth and Planetary Sciences (all)": "4",
+                    "Environmental Science (all)": "4"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57207965458",
+                "given-name": "Katsuhiko",
+                "surname": "Tanaka",
+                "document-count": "12",
+                "cited-by-count": "81",
+                "citation-count": "90",
+                "h-index": "6",
+                "current-affiliation": "Department of Research and Development, Tokyo, Japan",
+                "subject-area": {
+                    "Engineering (all)": "3",
+                    "Chemical Engineering (all)": "3"
+                },
+                "affil-type": "Industry"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927944",
+        "citation-count": "4",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58038841700",
+                "given-name": "Xiansheng",
+                "surname": "Wang",
+                "document-count": "1",
+                "cited-by-count": "4",
+                "citation-count": "4",
+                "h-index": "1",
+                "current-affiliation": "College of Information Engineering, Hangzhou, China",
+                "subject-area": {
+                    "Business, Management and Accounting (all)": "1",
+                    "Decision Sciences (all)": "1",
+                    "Computer Science (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56263145300",
+                "given-name": "Ke",
+                "surname": "Yan",
+                "document-count": "157",
+                "cited-by-count": "4338",
+                "citation-count": "5534",
+                "h-index": "41",
+                "current-affiliation": "Department of Mechanical and Electrical Engineering, Changsha, China",
+                "subject-area": {
+                    "Computer Science (all)": "41"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.4230/OASIcs.DX.2024.22",
+        "citation-count": "0",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7005768844",
+                "given-name": "Birgit",
+                "surname": "Hofer",
+                "document-count": "51",
+                "cited-by-count": "252",
+                "citation-count": "432",
+                "h-index": "11",
+                "current-affiliation": "Technische Universitat Graz, Graz, Austria",
+                "subject-area": {
+                    "Computer Science (all)": "12",
+                    "Engineering (all)": "13"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/6603677377",
+                "given-name": "Franz",
+                "surname": "Wotawa",
+                "document-count": "445",
+                "cited-by-count": "3391",
+                "citation-count": "4776",
+                "h-index": "30",
+                "current-affiliation": "Institute of Software Engineering and Artificial Intelligence, Graz, Austria",
+                "subject-area": {
+                    "Computer Science (all)": "141",
+                    "Engineering (all)": "88"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1016/j.ifacol.2022.07.152",
+        "citation-count": "0",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56423323300",
+                "given-name": "Panayiotis M.",
+                "surname": "Papadopoulos",
+                "document-count": "24",
+                "cited-by-count": "264",
+                "citation-count": "328",
+                "h-index": "10",
+                "current-affiliation": "The Cyprus Institute, Nicosia, Cyprus",
+                "subject-area": {
+                    "Engineering (all)": "11",
+                    "Computer Science (all)": "7"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7006251578",
+                "given-name": "Marios M.",
+                "surname": "Polycarpou",
+                "document-count": "507",
+                "cited-by-count": "14065",
+                "citation-count": "19223",
+                "h-index": "63",
+                "current-affiliation": "University of Cyprus, Nicosia, Cyprus",
+                "subject-area": {
+                    "Engineering (all)": "135",
+                    "Computer Science (all)": "95"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57050648400",
+                "given-name": "Christos G.",
+                "surname": "Panayiotou",
+                "document-count": "351",
+                "cited-by-count": "3389",
+                "citation-count": "4523",
+                "h-index": "37",
+                "current-affiliation": "Department of Electrical & Computer Engineering, Nicosia, Cyprus",
+                "subject-area": {
+                    "Engineering (all)": "70",
+                    "Computer Science (all)": "74"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00291",
+        "citation-count": "2",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7005659950",
+                "given-name": "Michael Yit Lin",
+                "surname": "Chew",
+                "document-count": "111",
+                "cited-by-count": "1715",
+                "citation-count": "2241",
+                "h-index": "28",
+                "current-affiliation": "Department of the Built Environment, Singapore City, Singapore",
+                "subject-area": {
+                    "Engineering (all)": "25"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56263145300",
+                "given-name": "Ke",
+                "surname": "Yan",
+                "document-count": "157",
+                "cited-by-count": "4338",
+                "citation-count": "5534",
+                "h-index": "41",
+                "current-affiliation": "Department of Mechanical and Electrical Engineering, Changsha, China",
+                "subject-area": {
+                    "Computer Science (all)": "41"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/SmartNets50376.2021.9555424",
+        "citation-count": "4",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/9040473200",
+                "given-name": "Kumar",
+                "surname": "Padmanabh",
+                "document-count": "33",
+                "cited-by-count": "223",
+                "citation-count": "230",
+                "h-index": "7",
+                "current-affiliation": "Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates",
+                "subject-area": {
+                    "Computer Science (all)": "6",
+                    "Engineering (all)": "9"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/55752904500",
+                "given-name": "Ahmad",
+                "surname": "Al-Rubaie",
+                "document-count": "18",
+                "cited-by-count": "225",
+                "citation-count": "237",
+                "h-index": "9",
+                "current-affiliation": "British Telecom Research Lab, Abu Dhabi, United Arab Emirates",
+                "subject-area": {
+                    "Computer Science (all)": "6"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/24499077800",
+                "given-name": "John",
+                "surname": "Davies",
+                "document-count": "81",
+                "cited-by-count": "1332",
+                "citation-count": "1423",
+                "h-index": "20",
+                "current-affiliation": "Applied Research, Ipswich, United Kingdom",
+                "subject-area": {
+                    "Computer Science (all)": "21",
+                    "Engineering (all)": "29"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56559256500",
+                "given-name": "Sandra Stin\u010di\u0107",
+                "surname": "Clarke",
+                "document-count": "17",
+                "cited-by-count": "137",
+                "citation-count": "144",
+                "h-index": "7",
+                "current-affiliation": "Applied Research, Ipswich, United Kingdom",
+                "subject-area": {
+                    "Computer Science (all)": "7",
+                    "Mathematics (all)": "6"
+                },
+                "affil-type": "non-academic research"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57191411872",
+                "given-name": "Alia Abdulaziz Ali Abdulla",
+                "surname": "Aljasmi",
+                "document-count": "7",
+                "cited-by-count": "8",
+                "citation-count": "9",
+                "h-index": "2",
+                "current-affiliation": "IoT & AI Operations, Abu Dhabi, United Arab Emirates",
+                "subject-area": {
+                    "Computer Science (all)": "3"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1088/1755-1315/675/1/012196",
+        "citation-count": "1",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57195483826",
+                "given-name": "Zhengfei",
+                "surname": "Li",
+                "document-count": "17",
+                "cited-by-count": "471",
+                "citation-count": "527",
+                "h-index": "11",
+                "current-affiliation": "Huazhong University of Science and Technology, Wuhan, China",
+                "subject-area": {
+                    "Engineering (all)": "9"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57218143492",
+                "given-name": "Kuan",
+                "surname": "Hu",
+                "document-count": "2",
+                "cited-by-count": "14",
+                "citation-count": "14",
+                "h-index": "1",
+                "current-affiliation": "Department of Refrigeration and Cryogenics, Wuhan, China",
+                "subject-area": {
+                    "Environmental Science (all)": "1",
+                    "Engineering (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/55743189700",
+                "given-name": "Huanxin",
+                "surname": "Chen",
+                "document-count": "212",
+                "cited-by-count": "5037",
+                "citation-count": "6925",
+                "h-index": "47",
+                "current-affiliation": "Central South University, Wuhan, China",
+                "subject-area": {
+                    "Engineering (all)": "71"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57218145936",
+                "given-name": "Qian",
+                "surname": "Liu",
+                "document-count": "6",
+                "cited-by-count": "66",
+                "citation-count": "85",
+                "h-index": "4",
+                "current-affiliation": "Huazhong University of Science and Technology, Wuhan, China",
+                "subject-area": {
+                    "Engineering (all)": "3"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1051/e3sconf/202123303057",
+        "citation-count": "1",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57221856536",
+                "given-name": "Bang",
+                "surname": "Wu",
+                "document-count": "1",
+                "cited-by-count": "1",
+                "citation-count": "1",
+                "h-index": "1",
+                "current-affiliation": "School of Urban Construction, Wuhan, China",
+                "subject-area": {
+                    "Energy (all)": "1",
+                    "Earth and Planetary Sciences (all)": "1",
+                    "Environmental Science (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/23970410300",
+                "given-name": "Yunpeng",
+                "surname": "Hu",
+                "document-count": "52",
+                "cited-by-count": "1007",
+                "citation-count": "1575",
+                "h-index": "25",
+                "current-affiliation": "Department of Building Environment and Energy Engineering, Wuhan, China",
+                "subject-area": {
+                    "Engineering (all)": "15"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7403343864",
+                "given-name": "Chuanhui",
+                "surname": "Zhou",
+                "document-count": "14",
+                "cited-by-count": "28",
+                "citation-count": "28",
+                "h-index": "3",
+                "current-affiliation": "Hubei Provincial Engineering Research Center of Urban Regeneration, Wuhan, China",
+                "subject-area": {
+                    "Engineering (all)": "3",
+                    "Environmental Science (all)": "3",
+                    "Earth and Planetary Sciences (all)": "3"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57221849822",
+                "given-name": "Guaiguai",
+                "surname": "Chen",
+                "document-count": "1",
+                "cited-by-count": "1",
+                "citation-count": "1",
+                "h-index": "1",
+                "current-affiliation": "School of Urban Construction, Wuhan, China",
+                "subject-area": {
+                    "Earth and Planetary Sciences (all)": "1",
+                    "Environmental Science (all)": "1",
+                    "Energy (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56654560000",
+                "given-name": "Xiang",
+                "surname": "Chen",
+                "document-count": "125",
+                "cited-by-count": "2198",
+                "citation-count": "3856",
+                "h-index": "40",
+                "current-affiliation": "School of Urban Construction, Wuhan, China",
+                "subject-area": {
+                    "Engineering (all)": "47"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/ISAP48318.2019.9065995",
+        "citation-count": "10",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57216690469",
+                "given-name": "Shrishti",
+                "surname": "Trivedi",
+                "document-count": "1",
+                "cited-by-count": "10",
+                "citation-count": "10",
+                "h-index": "1",
+                "current-affiliation": "Department of Instrumentation and Control Engineering, New Delhi, India",
+                "subject-area": {
+                    "Energy (all)": "1",
+                    "Computer Science (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57486470900",
+                "given-name": "Sahil",
+                "surname": "Bhola",
+                "document-count": "7",
+                "cited-by-count": "56",
+                "citation-count": "56",
+                "h-index": "3",
+                "current-affiliation": "Michigan Engineering, Ann Arbor, United States",
+                "subject-area": {
+                    "Mathematics (all)": "3",
+                    "Computer Science (all)": "3",
+                    "Engineering (all)": "3"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57216692269",
+                "given-name": "Archit",
+                "surname": "Talegaonkar",
+                "document-count": "2",
+                "cited-by-count": "16",
+                "citation-count": "16",
+                "h-index": "2",
+                "current-affiliation": "Netaji Subhas University of Technology, New Delhi, India",
+                "subject-area": {
+                    "Computer Science (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7003317811",
+                "given-name": "Prerna",
+                "surname": "Gaur",
+                "document-count": "148",
+                "cited-by-count": "1378",
+                "citation-count": "1650",
+                "h-index": "22",
+                "current-affiliation": "Netaji Subhas University of Technology, New Delhi, India",
+                "subject-area": {
+                    "Engineering (all)": "77",
+                    "Computer Science (all)": "48"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57216693199",
+                "given-name": "Shreya",
+                "surname": "Sharma",
+                "document-count": "5",
+                "cited-by-count": "44",
+                "citation-count": "44",
+                "h-index": "3",
+                "current-affiliation": "Institute of Bioinformatics and Applied Biotechnology (IBAB), Bengaluru, India",
+                "subject-area": {
+                    "Medicine (all)": "1",
+                    "Energy (all)": "1"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/IECON43393.2020.9254466",
+        "citation-count": "2",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57200822612",
+                "given-name": "Bingjie",
+                "surname": "Wu",
+                "document-count": "13",
+                "cited-by-count": "171",
+                "citation-count": "202",
+                "h-index": "7",
+                "current-affiliation": "Nanyang Technological University, Singapore City, Singapore",
+                "subject-area": {
+                    "Engineering (all)": "6"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7401711135",
+                "given-name": "Wenjian Jian",
+                "surname": "Cai",
+                "document-count": "315",
+                "cited-by-count": "5832",
+                "citation-count": "8352",
+                "h-index": "49",
+                "current-affiliation": "Marine Engineering College, Dalian, China",
+                "subject-area": {
+                    "Engineering (all)": "98"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56044348100",
+                "given-name": "Xin",
+                "surname": "Zhang",
+                "document-count": "262",
+                "cited-by-count": "5337",
+                "citation-count": "6798",
+                "h-index": "43",
+                "current-affiliation": "Zhejiang University, Hangzhou, China",
+                "subject-area": {
+                    "Engineering (all)": "54",
+                    "Energy (all)": "110"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/ICIoT48696.2020.9089508",
+        "citation-count": "5",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57202050448",
+                "given-name": "Mariam",
+                "surname": "Elnour",
+                "document-count": "19",
+                "cited-by-count": "769",
+                "citation-count": "888",
+                "h-index": "12",
+                "current-affiliation": "College of Engineering, College Station, United States",
+                "subject-area": {
+                    "Energy (all)": "4",
+                    "Computer Science (all)": "4",
+                    "Mathematics (all)": "4"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/24172813000",
+                "given-name": "Nader",
+                "surname": "Meskin",
+                "document-count": "311",
+                "cited-by-count": "5356",
+                "citation-count": "7020",
+                "h-index": "41",
+                "current-affiliation": "Qatar University, Doha, Qatar",
+                "subject-area": {
+                    "Engineering (all)": "114",
+                    "Computer Science (all)": "80"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1016/j.energy.2020.117323",
+        "citation-count": "85",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57190009504",
+                "given-name": "Gerrit",
+                "surname": "Bode",
+                "document-count": "16",
+                "cited-by-count": "167",
+                "citation-count": "180",
+                "h-index": "6",
+                "current-affiliation": "aedifion GmbH, Koln, Germany",
+                "subject-area": {
+                    "Energy (all)": "8",
+                    "Environmental Science (all)": "5",
+                    "Engineering (all)": "5"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57214991437",
+                "given-name": "Simon",
+                "surname": "Thul",
+                "document-count": "2",
+                "cited-by-count": "85",
+                "citation-count": "85",
+                "h-index": "1",
+                "current-affiliation": "Institute for Energy Efficient Buildings and Indoor Climate, Aachen, Germany",
+                "subject-area": {
+                    "Energy (all)": "2",
+                    "Environmental Science (all)": "1",
+                    "Engineering (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56938309400",
+                "given-name": "Marc A.",
+                "surname": "Baranski",
+                "document-count": "41",
+                "cited-by-count": "400",
+                "citation-count": "456",
+                "h-index": "11",
+                "current-affiliation": "Aedifion GmbH, Koln, Germany",
+                "subject-area": {
+                    "Energy (all)": "17",
+                    "Engineering (all)": "14",
+                    "Environmental Science (all)": "13"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57217610714",
+                "given-name": "Dirk",
+                "surname": "M\u00fcller",
+                "document-count": "445",
+                "cited-by-count": "4641",
+                "citation-count": "6137",
+                "h-index": "39",
+                "current-affiliation": "Institute of Climate and Energy Systems, Julich, Germany",
+                "subject-area": {
+                    "Engineering (all)": "124",
+                    "Energy (all)": "130"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/COASE.2017.8256214",
+        "citation-count": "5",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/55239625900",
+                "given-name": "Ying",
+                "surname": "Yan",
+                "document-count": "61",
+                "cited-by-count": "418",
+                "citation-count": "470",
+                "h-index": "12",
+                "current-affiliation": "Nanjing University of Information Science & Technology, Nanjing, China",
+                "subject-area": {
+                    "Engineering (all)": "12",
+                    "Computer Science (all)": "11"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7005295546",
+                "given-name": "Peter B.",
+                "surname": "Luh",
+                "document-count": "419",
+                "cited-by-count": "7773",
+                "citation-count": "10155",
+                "h-index": "53",
+                "current-affiliation": "UConn College of Engineering, Storrs, United States",
+                "subject-area": {
+                    "Engineering (all)": "225",
+                    "Energy (all)": "94"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7006476249",
+                "given-name": "Krishna K.",
+                "surname": "Pattipati",
+                "document-count": "492",
+                "cited-by-count": "7755",
+                "citation-count": "10700",
+                "h-index": "54",
+                "current-affiliation": "UConn College of Engineering, Storrs, United States",
+                "subject-area": {
+                    "Engineering (all)": "81"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "10.1109/CoASE.2014.6899463",
+        "citation-count": "4",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/55239625900",
+                "given-name": "Ying",
+                "surname": "Yan",
+                "document-count": "61",
+                "cited-by-count": "418",
+                "citation-count": "470",
+                "h-index": "12",
+                "current-affiliation": "Nanjing University of Information Science & Technology, Nanjing, China",
+                "subject-area": {
+                    "Engineering (all)": "12",
+                    "Computer Science (all)": "11"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7005295546",
+                "given-name": "Peter B.",
+                "surname": "Luh",
+                "document-count": "419",
+                "cited-by-count": "7773",
+                "citation-count": "10155",
+                "h-index": "53",
+                "current-affiliation": "UConn College of Engineering, Storrs, United States",
+                "subject-area": {
+                    "Engineering (all)": "225",
+                    "Energy (all)": "94"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7006476249",
+                "given-name": "Krishna K.",
+                "surname": "Pattipati",
+                "document-count": "492",
+                "cited-by-count": "7755",
+                "citation-count": "10700",
+                "h-index": "54",
+                "current-affiliation": "UConn College of Engineering, Storrs, United States",
+                "subject-area": {
+                    "Engineering (all)": "81"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "https://dl.acm.org/doi/10.5555/3615924.3623632",
+        "citation-count": "1",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/58172106500",
+                "given-name": "Ruiqi",
+                "surname": "Tian",
+                "document-count": "2",
+                "cited-by-count": "9",
+                "citation-count": "9",
+                "h-index": "2",
+                "current-affiliation": "Department of Electrical & Computer Engineering, London, Canada",
+                "subject-area": {
+                    "Mathematics (all)": "2",
+                    "Energy (all)": "1",
+                    "Engineering (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57205485739",
+                "given-name": "Santiago Vladimir",
+                "surname": "G\u00f3mez-Rosero",
+                "document-count": "11",
+                "cited-by-count": "41",
+                "citation-count": "42",
+                "h-index": "4",
+                "current-affiliation": "Department of Electrical & Computer Engineering, London, Canada",
+                "subject-area": {
+                    "Computer Science (all)": "3",
+                    "Engineering (all)": "3"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/6602631556",
+                "given-name": "Miriam A.M.",
+                "surname": "Capretz",
+                "document-count": "157",
+                "cited-by-count": "3777",
+                "citation-count": "3951",
+                "h-index": "23",
+                "current-affiliation": "Department of Electrical & Computer Engineering, London, Canada",
+                "subject-area": {
+                    "Computer Science (all)": "32"
+                },
+                "affil-type": "University"
+            }
+        ]
+    },
+    {
+        "doi": "https://dl.acm.org/doi/10.5555/2873021.2873029",
+        "scopus-publication-id": "84937434978",
+        "citation-count": "9",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56727125200",
+                "given-name": "Zixiao",
+                "surname": "Shi",
+                "document-count": "25",
+                "cited-by-count": "555",
+                "citation-count": "645",
+                "h-index": "14",
+                "current-affiliation": "National Research Council Canada, Ottawa, Canada",
+                "subject-area": {
+                    "Engineering (all)": "11"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56727971700",
+                "given-name": "Aly",
+                "surname": "Abdelalim",
+                "document-count": "10",
+                "cited-by-count": "133",
+                "citation-count": "141",
+                "h-index": "6",
+                "current-affiliation": "Department of Architectural Engineering and Environmental Design, Heliopolis, Egypt",
+                "subject-area": {
+                    "Engineering (all)": "3"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57212926253",
+                "given-name": "William T.",
+                "surname": "O'Brien",
+                "document-count": "253",
+                "cited-by-count": "4578",
+                "citation-count": "7074",
+                "h-index": "44",
+                "current-affiliation": "Carleton University, Ottawa, Canada",
+                "subject-area": {
+                    "Engineering (all)": "87",
+                    "Environmental Science (all)": "67"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/36701070400",
+                "given-name": "Ramtin",
+                "surname": "Attar",
+                "document-count": "10",
+                "cited-by-count": "367",
+                "citation-count": "368",
+                "h-index": "7",
+                "current-affiliation": "Autodesk Inc., San Francisco, United States",
+                "subject-area": {
+                    "Computer Science (all)": "3"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/36701070400",
+                "given-name": "Ramtin",
+                "surname": "Attar",
+                "document-count": "10",
+                "cited-by-count": "367",
+                "citation-count": "368",
+                "h-index": "7",
+                "current-affiliation": "Autodesk Inc., San Francisco, United States",
+                "subject-area": {
+                    "Computer Science (all)": "3"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56728508600",
+                "given-name": "Peter",
+                "surname": "Akiki",
+                "document-count": "1",
+                "cited-by-count": "9",
+                "citation-count": "9",
+                "h-index": "1",
+                "current-affiliation": "Carleton University, Ottawa, Canada",
+                "subject-area": {
+                    "Computer Science (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57217189030",
+                "given-name": "Katie",
+                "surname": "Graham",
+                "document-count": "10",
+                "cited-by-count": "118",
+                "citation-count": "133",
+                "h-index": "7",
+                "current-affiliation": "Carleton University, Ottawa, Canada",
+                "subject-area": {
+                    "Computer Science (all)": "3",
+                    "Social Sciences (all)": "3",
+                    "Engineering (all)": "2"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/56728761200",
+                "given-name": "Barbara",
+                "surname": "van Waarden",
+                "document-count": "1",
+                "cited-by-count": "9",
+                "citation-count": "9",
+                "h-index": "1",
+                "current-affiliation": "Carleton University, Ottawa, Canada",
+                "subject-area": {
+                    "Computer Science (all)": "1"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/54079611600",
+                "given-name": "Stephen",
+                "surname": "Fai",
+                "document-count": "50",
+                "cited-by-count": "1171",
+                "citation-count": "1289",
+                "h-index": "17",
+                "current-affiliation": "Carleton University, Ottawa, Canada",
+                "subject-area": {
+                    "Physics and Astronomy (all)": "16",
+                    "Environmental Science (all)": "16",
+                    "Earth and Planetary Sciences (all)": "15"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/36702009900",
+                "given-name": "Alexander",
+                "surname": "Tessier",
+                "document-count": "25",
+                "cited-by-count": "171",
+                "citation-count": "191",
+                "h-index": "8",
+                "current-affiliation": "Autodesk Inc., San Francisco, United States",
+                "subject-area": {
+                    "Computer Science (all)": "8",
+                    "Mathematics (all)": "9"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/7404910952",
+                "given-name": "Azam",
+                "surname": "Khan",
+                "document-count": "97",
+                "cited-by-count": "1716",
+                "citation-count": "2125",
+                "h-index": "28",
+                "current-affiliation": "University of Toronto, Toronto, Canada",
+                "subject-area": {
+                    "Computer Science (all)": "32",
+                    "Mathematics (all)": "25"
+                },
+                "affil-type": "Industry"
+            }
+        ]
+    },
+    {
+        "doi": "10.26868/25222708.2019.210311",
+        "scopus-publication-id": "85103634671",
+        "citation-count": "7",
+        "authors": [
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57207960636",
+                "given-name": "Shohei",
+                "surname": "Miyata",
+                "document-count": "44",
+                "cited-by-count": "575",
+                "citation-count": "686",
+                "h-index": "13",
+                "current-affiliation": "Department of Architecture, Tokyo, Japan",
+                "subject-area": {
+                    "Engineering (all)": "15",
+                    "Energy (all)": "16"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/15831158200",
+                "given-name": "Yasunori",
+                "surname": "Akashi",
+                "document-count": "85",
+                "cited-by-count": "796",
+                "citation-count": "895",
+                "h-index": "17",
+                "current-affiliation": "Department of Architecture, Tokyo, Japan",
+                "subject-area": {
+                    "Engineering (all)": "24"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/55673143000",
+                "given-name": "Jongyeon",
+                "surname": "Lim",
+                "document-count": "48",
+                "cited-by-count": "274",
+                "citation-count": "299",
+                "h-index": "9",
+                "current-affiliation": "Department of Integrated Energy and Infra System, Chuncheon, South Korea",
+                "subject-area": {
+                    "Engineering (all)": "13",
+                    "Environmental Science (all)": "13"
+                },
+                "affil-type": "University"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57207965928",
+                "given-name": "Yasuhiro",
+                "surname": "Kuwahara",
+                "document-count": "11",
+                "cited-by-count": "71",
+                "citation-count": "78",
+                "h-index": "5",
+                "current-affiliation": "MTD Co. Ltd., Tokyo, Japan",
+                "subject-area": {
+                    "Engineering (all)": "6",
+                    "Earth and Planetary Sciences (all)": "4",
+                    "Environmental Science (all)": "4"
+                },
+                "affil-type": "Industry"
+            },
+            {
+                "author-url": "https://api.elsevier.com/content/author/author_id/57207965458",
+                "given-name": "Katsuhiko",
+                "surname": "Tanaka",
+                "document-count": "12",
+                "cited-by-count": "81",
+                "citation-count": "90",
+                "h-index": "6",
+                "current-affiliation": "Department of Research and Development, Tokyo, Japan",
+                "subject-area": {
+                    "Engineering (all)": "3",
+                    "Chemical Engineering (all)": "3"
+                },
+                "affil-type": "Industry"
+            }
+        ]
+    }
+]
